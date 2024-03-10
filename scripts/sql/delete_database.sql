@@ -1,0 +1,1 @@
+DROP DATABASE IF EXISTS "ffx-fire-ops" WITH (FORCE)
