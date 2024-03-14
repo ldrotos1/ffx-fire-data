@@ -25,7 +25,7 @@ if [ -f ~/ffx-fire-ops/.dbconnprops ]; then
   rm ~/ffx-fire-ops/.dbconnprops
 fi
 
-if [ -f ~/ffx-fire-ops/.dbconnprops ]; then
+if [ -f ~/ffx-fire-ops/.pgpass ]; then
   rm ~/ffx-fire-ops/.pgpass
 fi
 
