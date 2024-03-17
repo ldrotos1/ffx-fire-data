@@ -1,12 +1,12 @@
 -- Create the table schema --
-CREATE SCHEMA "ffx-fire-ops.ffx"
+CREATE SCHEMA ffx_fire_ops
 	AUTHORIZATION postgres;
 
 -- Enable post GIS --
 CREATE EXTENSION postgis;
 
 -- Create the fire department table --
-CREATE TABLE "ffx-fire-ops.ffx".department
+CREATE TABLE ffx_fire_ops.department
 (
     dept_id numeric(3),
     dept_full_name text NOT NULL,
@@ -16,7 +16,7 @@ CREATE TABLE "ffx-fire-ops.ffx".department
 );
 
 -- Create the station first due area table --
-CREATE TABLE "ffx-fire-ops.ffx".first_due_area
+CREATE TABLE ffx_fire_ops.first_due_area
 (
     poly_id uuid,
     first_due_area geometry(polygon,4326) NOT NULL,
@@ -24,7 +24,7 @@ CREATE TABLE "ffx-fire-ops.ffx".first_due_area
 );
 
 -- Create the station table --
-CREATE TABLE "ffx-fire-ops.ffx".station
+CREATE TABLE ffx_fire_ops.station
 (
     station_designator numeric(3),
     station_number numeric(3) NOT NULL,
@@ -42,17 +42,17 @@ CREATE TABLE "ffx-fire-ops.ffx".station
 		location geometry(Point,4326) NOT NULL,
     PRIMARY KEY (station_designator),
 		CONSTRAINT first_due_area_fk FOREIGN KEY (first_due_area_id)
-			REFERENCES "ffx-fire-ops.ffx".first_due_area (poly_id) MATCH SIMPLE
+			REFERENCES ffx_fire_ops.first_due_area (poly_id) MATCH SIMPLE
 			ON UPDATE NO ACTION
 			ON DELETE SET NULL,
 		CONSTRAINT dept_fk FOREIGN KEY (department_id)
-			REFERENCES "ffx-fire-ops.ffx".department (dept_id) MATCH SIMPLE
+			REFERENCES ffx_fire_ops.department (dept_id) MATCH SIMPLE
 			ON UPDATE NO ACTION
 			ON DELETE SET NULL
 );
 
 -- Create the apparatus type table --
-CREATE TABLE "ffx-fire-ops.ffx".apparatus_type
+CREATE TABLE ffx_fire_ops.apparatus_type
 (
     apparatus_type_id numeric(2),
     apparatus_type character varying(30) NOT NULL,
@@ -68,7 +68,7 @@ CREATE TABLE "ffx-fire-ops.ffx".apparatus_type
 );
 
 -- Create the apparatus table --
-CREATE TABLE "ffx-fire-ops.ffx".apparatus
+CREATE TABLE ffx_fire_ops.apparatus
 (
     unit_id uuid,
     unit_designator character varying(12) NOT NULL,
@@ -78,15 +78,15 @@ CREATE TABLE "ffx-fire-ops.ffx".apparatus
     is_reserved boolean NOT NULL DEFAULT False,
     PRIMARY KEY (unit_id),
     CONSTRAINT dept_id_fk FOREIGN KEY (dept_id)
-        REFERENCES "ffx-fire-ops.ffx".department (dept_id) MATCH SIMPLE
+        REFERENCES ffx_fire_ops.department (dept_id) MATCH SIMPLE
         ON UPDATE NO ACTION
         ON DELETE CASCADE,
     CONSTRAINT station_desig_fk FOREIGN KEY (station_designator)
-        REFERENCES "ffx-fire-ops.ffx".station (station_designator) MATCH SIMPLE
+        REFERENCES ffx_fire_ops.station (station_designator) MATCH SIMPLE
         ON UPDATE NO ACTION
         ON DELETE SET NULL,
     CONSTRAINT apparatus_type_id_fk FOREIGN KEY (apparatus_type_id)
-        REFERENCES "ffx-fire-ops.ffx".apparatus_type (apparatus_type_id) MATCH SIMPLE
+        REFERENCES ffx_fire_ops.apparatus_type (apparatus_type_id) MATCH SIMPLE
         ON UPDATE NO ACTION
         ON DELETE CASCADE
 );
