@@ -10,9 +10,6 @@ read -r host
 printf "\nEnter database port\n"
 read -r port
 
-printf "\nEnter database name\n"
-read -r database_name
-
 printf "\nEnter database username\n"
 read -r user
 
@@ -29,7 +26,7 @@ if [ -f ~/ffx-fire-ops/.pgpass ]; then
   rm ~/ffx-fire-ops/.pgpass
 fi
 
-conn_props="${host}:${port}:${database_name}:${user}"
+conn_props="${host}:${port}:${user}"
 echo "$conn_props" > ~/ffx-fire-ops/.dbconnprops
 
 psql_password="${host}:${port}:*:${user}:${password}"

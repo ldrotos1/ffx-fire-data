@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "|-------------------------------------------------------------------|"
-echo "| This script will delete the ffx fire operations postgres database |"
+echo "| This script will create the ffx fire operations postgres database |"
 echo "|-------------------------------------------------------------------|"
 
 if ! [ -f ~/ffx-fire-ops/.dbconnprops ]; then
@@ -29,7 +29,10 @@ port=${conn_info[1]}
 user=${conn_info[2]}
 
 SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
-SQL_DIR="${SCRIPT_DIR}/sql/delete_database.sql"
-psql -U "$user" -h "$host" -p "$port" -f "$SQL_DIR"
+CREATE_DB_FILE="${SCRIPT_DIR}/sql/create_database.sql"
+CREATE_TABLES_FILE="${SCRIPT_DIR}/sql/create_table_schema.sql"
 
-echo "Database deleted"
+psql -U "$user" -h "$host" -p "$port" -f "$CREATE_DB_FILE"
+psql -U "$user" -h "$host" -p "$port" -d ffx-fire-ops -f "$CREATE_TABLES_FILE"
+
+echo "Database created"
