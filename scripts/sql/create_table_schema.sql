@@ -31,24 +31,27 @@ CREATE TABLE ffx_fire_ops.station
     station_name text NOT NULL,
     battalion integer NOT NULL,
     divison integer,
+    is_battalion_hq boolean NOT NULL DEFAULT False,
+    is_division_hq boolean NOT NULL DEFAULT False,
     is_volunteer boolean NOT NULL DEFAULT False,
     address text NOT NULL,
     city text NOT NULL,
     state text NOT NULL,
     zip integer NOT NULL,
-    density character varying(10),
-		department_id integer,
-		first_due_area_id uuid,
-		location geometry(Point,4326) NOT NULL,
+	department_id integer,
+    lat double precision NOT NULL,
+    lon double precision NOT NULL,
+    location geometry(Point,4326) DEFAULT NULL,
+	first_due_area_id uuid DEFAULT NULL,
     PRIMARY KEY (station_designator),
-		CONSTRAINT first_due_area_fk FOREIGN KEY (first_due_area_id)
-			REFERENCES ffx_fire_ops.first_due_area (poly_id) MATCH SIMPLE
-			ON UPDATE NO ACTION
-			ON DELETE SET NULL,
-		CONSTRAINT dept_fk FOREIGN KEY (department_id)
-			REFERENCES ffx_fire_ops.department (dept_id) MATCH SIMPLE
-			ON UPDATE NO ACTION
-			ON DELETE SET NULL
+    CONSTRAINT first_due_area_fk FOREIGN KEY (first_due_area_id)
+        REFERENCES ffx_fire_ops.first_due_area (poly_id) MATCH SIMPLE
+        ON UPDATE NO ACTION
+        ON DELETE SET NULL,
+    CONSTRAINT dept_fk FOREIGN KEY (department_id)
+        REFERENCES ffx_fire_ops.department (dept_id) MATCH SIMPLE
+        ON UPDATE NO ACTION
+        ON DELETE SET NULL
 );
 
 -- Create the apparatus type table --
