@@ -75,13 +75,15 @@ CREATE TABLE ffx_fire_ops.apparatus_type
 -- Create the apparatus table --
 CREATE TABLE ffx_fire_ops.apparatus
 (
-    unit_id uuid,
     unit_designator character varying(12) NOT NULL,
-    station_designator integer NOT NULL,
     apparatus_type_id integer NOT NULL,
+    station_designator integer NOT NULL,
     dept_id integer NOT NULL,
     is_reserved boolean NOT NULL DEFAULT False,
-    PRIMARY KEY (unit_id),
+    year integer,
+    make character varying(40),
+    model character varying(40),
+    PRIMARY KEY (unit_designator),
     CONSTRAINT dept_id_fk FOREIGN KEY (dept_id)
         REFERENCES ffx_fire_ops.department (dept_id) MATCH SIMPLE
         ON UPDATE NO ACTION

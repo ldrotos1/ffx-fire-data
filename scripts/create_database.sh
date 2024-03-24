@@ -44,6 +44,10 @@ APPARATUS_TYPE_DATA="${SCRIPT_DIR}/data/apparatus_type_data.csv"
 APPARATUS_TYPE_DATA=$(echo "$APPARATUS_TYPE_DATA" | tr / \\\\)
 APPARATUS_TYPE_DATA="c:$(echo "$APPARATUS_TYPE_DATA" | cut -c 3-)"
 
+APPARATUS_DATA="${SCRIPT_DIR}/data/apparatus_data.csv"
+APPARATUS_DATA=$(echo "$APPARATUS_DATA" | tr / \\\\)
+APPARATUS_DATA="c:$(echo "$APPARATUS_DATA" | cut -c 3-)"
+
 echo "Creating database and table schema"
 psql -U "$user" -h "$host" -p "$port" -f "$CREATE_DB_FILE"
 psql -U "$user" -h "$host" -p "$port" -d ffx-fire-ops -f "$CREATE_TABLES_FILE"
@@ -59,5 +63,9 @@ psql -U "$user" -h "$host" -p "$port" -d ffx-fire-ops \
 echo "Loading apparatus type data"
 psql -U "$user" -h "$host" -p "$port" -d ffx-fire-ops \
   -c "\\copy ffx_fire_ops.apparatus_type from '$APPARATUS_TYPE_DATA' WITH DELIMITER '|' CSV;"
+
+echo "Loading apparatus data"
+psql -U "$user" -h "$host" -p "$port" -d ffx-fire-ops \
+  -c "\\copy ffx_fire_ops.apparatus from '$APPARATUS_DATA' WITH DELIMITER '|' CSV;"
 
 echo "Database created"
