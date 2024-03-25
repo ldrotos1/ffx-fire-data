@@ -15,14 +15,6 @@ CREATE TABLE ffx_fire_ops.department
     PRIMARY KEY (dept_id)
 );
 
--- Create the station first due area table --
-CREATE TABLE ffx_fire_ops.first_due_area
-(
-    poly_id uuid,
-    first_due_area geometry(polygon,4326) NOT NULL,
-    PRIMARY KEY (poly_id)
-);
-
 -- Create the station table --
 CREATE TABLE ffx_fire_ops.station
 (
@@ -42,16 +34,23 @@ CREATE TABLE ffx_fire_ops.station
     lat double precision NOT NULL,
     lon double precision NOT NULL,
     location geometry(Point,4326) DEFAULT NULL,
-	first_due_area_id uuid DEFAULT NULL,
     PRIMARY KEY (station_designator),
-    CONSTRAINT first_due_area_fk FOREIGN KEY (first_due_area_id)
-        REFERENCES ffx_fire_ops.first_due_area (poly_id) MATCH SIMPLE
-        ON UPDATE NO ACTION
-        ON DELETE SET NULL,
     CONSTRAINT dept_fk FOREIGN KEY (department_id)
         REFERENCES ffx_fire_ops.department (dept_id) MATCH SIMPLE
         ON UPDATE NO ACTION
         ON DELETE SET NULL
+);
+
+-- Create the station first due area table --
+CREATE TABLE ffx_fire_ops.first_due_area
+(
+    station_designator integer,
+    first_due_area geometry(Polygon,4326) NOT NULL,
+    PRIMARY KEY (station_designator),
+    CONSTRAINT station_fk FOREIGN KEY (station_designator)
+        REFERENCES ffx_fire_ops.station (station_designator) MATCH SIMPLE
+        ON UPDATE NO ACTION
+        ON DELETE CASCADE
 );
 
 -- Create the apparatus type table --

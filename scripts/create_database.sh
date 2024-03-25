@@ -68,4 +68,8 @@ psql -U "$user" -h "$host" -p "$port" -d ffx-fire-ops \
 echo "Creating geometries"
 psql -U "$user" -h "$host" -p "$port" -d ffx-fire-ops -f "$CREATE_STATION_GEO_FILE"
 
+for SQL_FILE in "${SCRIPT_DIR}"/sql/first_due_geom/*; 
+  do psql -U "$user" -h "$host" -p "$port" -d ffx-fire-ops -f "$SQL_FILE"
+done
+
 echo "Database created"
