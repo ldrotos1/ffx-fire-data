@@ -12,6 +12,7 @@ CREATE TABLE ffx_fire_ops.department
     dept_full_name text NOT NULL,
     dept_short_name text NOT NULL,
     dept_abbreviation character varying(6) NOT NULL,
+    dept_border geometry(Polygon,4326),
     PRIMARY KEY (dept_id)
 );
 

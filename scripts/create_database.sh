@@ -65,10 +65,16 @@ APPARATUS_DATA="c:$(echo "$APPARATUS_DATA" | cut -c 3-)"
 psql -U "$user" -h "$host" -p "$port" -d ffx-fire-ops \
   -c "\\copy ffx_fire_ops.apparatus from '$APPARATUS_DATA' WITH DELIMITER '|' CSV;"
 
-echo "Creating geometries"
+echo "Creating station location point geometries"
 psql -U "$user" -h "$host" -p "$port" -d ffx-fire-ops -f "$CREATE_STATION_GEO_FILE"
 
+echo "Creating station first due polygon geometries"
 for SQL_FILE in "${SCRIPT_DIR}"/sql/first_due_geom/*; 
+  do psql -U "$user" -h "$host" -p "$port" -d ffx-fire-ops -f "$SQL_FILE"
+done
+
+echo "Creating department border polygon geometries"
+for SQL_FILE in "${SCRIPT_DIR}"/sql/depart_border_geom/*; 
   do psql -U "$user" -h "$host" -p "$port" -d ffx-fire-ops -f "$SQL_FILE"
 done
 
