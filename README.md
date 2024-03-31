@@ -2,8 +2,8 @@
 Data management code for a Fairfax County Fire and Rescue operations management application. This repository consists of bash scripts that are used to create and load data into a Postgres database used by the applicaiton.
 
 ## Requirements
-Postgres 16
-PSQL 16
+Postgres 16,
+PSQL 16,
 PostGIS
 
 ## Scripts
