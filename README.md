@@ -6,6 +6,11 @@ Postgres 16,
 PSQL 16,
 PostGIS
 
+## Setup
+### Set environment variables
+PGPASSFILE = ~/ffx-fire-ops/.pgpass <br/>
+This will allow scripts to automatically authenticate to the postgres database once the file is created
+
 ## Scripts
 ### set_conn_props.sh
 Prompts the user for database server connection information and saves that information to the user’s local profile in a couple of configuration files. Other scripts use the configuration files to automatically connect to the database server.
