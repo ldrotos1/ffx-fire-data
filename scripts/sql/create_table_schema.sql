@@ -97,3 +97,34 @@ CREATE TABLE ffx_fire_ops.apparatus
         ON UPDATE NO ACTION
         ON DELETE CASCADE
 );
+
+-- Create the user account table --
+CREATE TABLE ffx_fire_ops.user_account
+(
+    username character varying(50),
+    first_name character varying(50) NOT NULL,
+    last_name character varying(50) NOT NULL,
+    is_account_locked boolean NOT NULL,
+    created_on timestamp NOT NULL,
+    created_by character varying(50) NOT NULL,
+    updated_on timestamp NOT NULL,
+    updated_by character varying(50) NOT NULL,
+    expires_on date NOT NULL,
+    PRIMARY KEY (username)
+);
+
+-- Create the user role table --
+CREATE TABLE ffx_fire_ops.account_role
+(
+    role_name character varying(25) NOT NULL,
+    role_description text NOT NULL,
+    PRIMARY KEY (role_name)
+);
+
+-- Create the user_account_role table --
+CREATE TABLE ffx_fire_ops.user_account_role
+{
+    username character varying(50) REFERENCES ffx_fire_ops.user_account(username),
+    role_name character varying(25) REFERENCES ffx_fire_ops.account_role(role_name),
+    PRIMARY KEY(username,role_name)
+};
