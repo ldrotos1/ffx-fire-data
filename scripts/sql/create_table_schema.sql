@@ -102,14 +102,15 @@ CREATE TABLE ffx_fire_ops.apparatus
 CREATE TABLE ffx_fire_ops.user_account
 (
     username character varying(50),
+    email character varying(50) NOT NULL,
     first_name character varying(50) NOT NULL,
     last_name character varying(50) NOT NULL,
-    is_account_locked boolean NOT NULL,
-    created_on timestamp NOT NULL,
+    is_account_locked boolean NOT NULL DEFAULT FALSE,
+    created_on timestamp NOT NULL DEFAULT NOW(),
     created_by character varying(50) NOT NULL,
-    updated_on timestamp NOT NULL,
+    updated_on timestamp NOT NULL DEFAULT NOW(),
     updated_by character varying(50) NOT NULL,
-    expires_on date NOT NULL,
+    expires_on timestamp NOT NULL DEFAULT (NOW() + interval '1 year'),
     PRIMARY KEY (username)
 );
 
@@ -123,8 +124,8 @@ CREATE TABLE ffx_fire_ops.account_role
 
 -- Create the user_account_role table --
 CREATE TABLE ffx_fire_ops.user_account_role
-{
-    username character varying(50) REFERENCES ffx_fire_ops.user_account(username),
-    role_name character varying(25) REFERENCES ffx_fire_ops.account_role(role_name),
+(
+    username character varying(50) REFERENCES ffx_fire_ops.user_account(username) ON DELETE CASCADE,
+    role_name character varying(25) REFERENCES ffx_fire_ops.account_role(role_name) ON DELETE CASCADE,
     PRIMARY KEY(username,role_name)
-};
+);
