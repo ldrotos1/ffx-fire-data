@@ -36,6 +36,7 @@ STATION_DATA="${SCRIPT_DIR}/data/station_data.csv"
 APPARATUS_TYPE_DATA="${SCRIPT_DIR}/data/apparatus_type_data.csv"
 APPARATUS_DATA="${SCRIPT_DIR}/data/apparatus_data.csv"
 CREATE_STATION_GEO_FILE="${SCRIPT_DIR}/sql/create_station_geo.sql"
+USER_ACCOUNT_DATA="${SCRIPT_DIR}/sql/populate_user_account_tables.sql"
 
 echo "Creating database and table schema"
 psql -U "$user" -h "$host" -p "$port" -f "$CREATE_DB_FILE"
@@ -77,5 +78,8 @@ echo "Creating department border polygon geometries"
 for SQL_FILE in "${SCRIPT_DIR}"/sql/depart_border_geom/*; 
   do psql -U "$user" -h "$host" -p "$port" -d ffx-fire-ops -f "$SQL_FILE"
 done
+
+echo "Populating the user account tables"
+psql -U "$user" -h "$host" -p "$port" -d ffx-fire-ops -f "$USER_ACCOUNT_DATA"
 
 echo "Database created"
