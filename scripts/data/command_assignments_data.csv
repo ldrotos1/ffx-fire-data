@@ -1,0 +1,58 @@
+assignment,station,shift,description,person_id
+BC401,425,A,Battalion Chief,10034
+BC401,425,B,Battalion Chief,10041
+BC401,425,C,Battalion Chief,10048
+BC402,429,A,Battalion Chief,10035
+BC402,429,B,Battalion Chief,10042
+BC402,429,C,Battalion Chief,10049
+BC403,421,A,Battalion Chief,10033
+BC403,421,B,Battalion Chief,10040
+BC403,421,C,Battalion Chief,10047
+BC404,408,A,Battalion Chief,10031
+BC404,408,B,Battalion Chief,10038
+BC404,408,C,Battalion Chief,10045
+BC405,437,A,Battalion Chief,10037
+BC405,437,B,Battalion Chief,10044
+BC405,437,C,Battalion Chief,10051
+BC406,409,A,Battalion Chief,10032
+BC406,409,B,Battalion Chief,10039
+BC406,409,C,Battalion Chief,10046
+BC407,432,A,Battalion Chief,10036
+BC407,432,B,Battalion Chief,10043
+BC407,432,C,Battalion Chief,10050
+DFCO400,430,A,Deputy Fire Chief for Operations,10001
+DFCO400,430,B,Deputy Fire Chief for Operations,10002
+DFCO400,430,C,Deputy Fire Chief for Operations,10003
+EMS401,431,A,EMS Supervisor,10006
+EMS401,431,B,EMS Supervisor,10012
+EMS401,431,C,EMS Supervisor,10018
+EMS402,442,A,EMS Supervisor,10009
+EMS402,442,B,EMS Supervisor,10015
+EMS402,442,C,EMS Supervisor,10021
+EMS404,418,A,EMS Supervisor,11111
+EMS404,418,B,EMS Supervisor,11112
+EMS404,418,C,EMS Supervisor,11113
+EMS403,440,A,EMS Supervisor,10007
+EMS403,440,B,EMS Supervisor,10013
+EMS403,440,C,EMS Supervisor,10019
+EMS405,426,A,EMS Supervisor,10005
+EMS405,426,B,EMS Supervisor,10011
+EMS405,426,C,EMS Supervisor,10017
+EMS406,424,A,EMS Supervisor,10004
+EMS406,424,B,EMS Supervisor,10010
+EMS406,424,C,EMS Supervisor,10016
+EMS407,441,A,EMS Supervisor,10008
+EMS407,441,B,EMS Supervisor,10014
+EMS407,441,C,EMS Supervisor,10020
+ICS434,434,A,Incident Command Support,10052
+ICS435,434,B,Incident Command Support,10053
+ICS436,434,C,Incident Command Support,10054
+SAF401,435,A,Safety Officer,10024
+SAF401,435,B,Safety Officer,10027
+SAF401,435,C,Safety Officer,10030
+SAF402,415,A,Safety Officer,10023
+SAF402,415,B,Safety Officer,10026
+SAF402,415,C,Safety Officer,10029
+SAF403,413,A,Safety Officer,10022
+SAF403,413,B,Safety Officer,10025
+SAF403,413,C,Safety Officer,10028
