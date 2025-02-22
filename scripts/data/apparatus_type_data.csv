@@ -1,31 +1,31 @@
-1|Ambulance|Medical|ambulance|4|2|0|0|0|FALSE|FALSE|TRUE
-2|Ambulance Bus|Medical|ambulance_bus|5|0|0|0|0|FALSE|TRUE|FALSE
-3|Battalion Chief|Command|battalion_chief|2|0|0|0|1|FALSE|FALSE|FALSE
-4|Boat Support Unit|Marine|boat_support|2|0|0|0|0|FALSE|TRUE|FALSE
-5|Brush Unit|Support|brush|2|0|0|0|0|FALSE|TRUE|FALSE
-6|Canteen|Support|canteen|3|0|0|0|0|FALSE|TRUE|TRUE
-7|Deputy Fire Chief of Operations|Command|dfco|4|0|0|0|1|FALSE|FALSE|FALSE
-8|EMS Supervisor|Command|ems_super|2|0|0|1|0|TRUE|FALSE|FALSE
-9|Engine|Suppression|engine|6|3|0|1|0|TRUE|FALSE|FALSE
-10|Fire Boat|Marine|boat|4|0|0|1|0|FALSE|TRUE|FALSE
-11|Fire Marshals Lab Unit|Support|lab|4|0|0|1|0|FALSE|TRUE|FALSE
-12|Foam Unit|Suppression|foam|6|0|0|1|0|FALSE|TRUE|FALSE
-13|Hazmat|Hazmat|hazmat|6|0|3|1|0|TRUE|FALSE|FALSE
-14|Hazmat Support|Hazmat|hazmat_support|6|0|2|0|0|FALSE|FALSE|FALSE
-15|Incident Command Support|Command|ics|3|0|0|1|0|FALSE|FALSE|FALSE
-16|Inflatable Boat|Marine|inf_boat|4|0|0|0|0|FALSE|TRUE|FALSE
-17|Light and Air Unit|Support|light_air|2|0|0|0|0|FALSE|TRUE|FALSE
-18|Medic|Medical|medic|4|2|0|0|0|TRUE|FALSE|FALSE
-19|Medical Care Unit|Medical|mcu|2|0|0|0|0|FALSE|TRUE|FALSE
-20|Mobile Command Post|Command|command_post|4|0|0|0|0|FALSE|TRUE|FALSE
-21|Rehabilitation|Support|rehab|4|0|0|0|0|FALSE|TRUE|FALSE
-22|Rescue|Rescue|rescue|6|0|3|1|0|TRUE|FALSE|FALSE
-23|Safety Officer|Command|safety|2|0|0|1|0|FALSE|FALSE|FALSE
-24|Special Hazards Unit|Hazmat|shu|2|0|0|0|0|FALSE|TRUE|FALSE
-25|Tanker|Suppression|tanker|2|1|0|0|0|FALSE|FALSE|FALSE
-26|Technical Rescue Support|Rescue|trs|2|0|0|0|0|FALSE|TRUE|FALSE
-27|Truck (Ladder)|Aerial|ladder|6|3|0|0|0|TRUE|FALSE|FALSE
-28|Truck (Tower)|Aerial|tower|6|3|0|0|0|TRUE|FALSE|FALSE
-29|Truck (Tiller)|Aerial|tiller|6|3|0|0|0|TRUE|FALSE|FALSE
-30|Utility|Support|utility|2|0|0|0|0|FALSE|TRUE|TRUE
-31|Volunteer Chief|Command|vol_chief|2|0|0|0|1|FALSE|FALSE|TRUE
+1,Ambulance,Medical,ambulance,4,2,0,0,0,FALSE,FALSE,TRUE
+2,Ambulance Bus,Medical,ambulance_bus,5,0,0,0,0,FALSE,TRUE,FALSE
+3,Battalion Chief,Command,battalion_chief,2,0,0,0,1,FALSE,FALSE,FALSE
+4,Boat Support Unit,Marine,boat_support,2,0,0,0,0,FALSE,TRUE,FALSE
+5,Brush Unit,Support,brush,2,0,0,0,0,FALSE,TRUE,FALSE
+6,Canteen,Support,canteen,3,0,0,0,0,FALSE,TRUE,TRUE
+7,Deputy Fire Chief of Operations,Command,dfco,4,0,0,0,1,FALSE,FALSE,FALSE
+8,EMS Supervisor,Command,ems_super,2,0,0,1,0,TRUE,FALSE,FALSE
+9,Engine,Suppression,engine,6,3,0,1,0,TRUE,FALSE,FALSE
+10,Fire Boat,Marine,boat,4,0,0,1,0,FALSE,TRUE,FALSE
+11,Fire Marshals Lab Unit,Support,lab,4,0,0,1,0,FALSE,TRUE,FALSE
+12,Foam Unit,Suppression,foam,6,0,0,1,0,FALSE,TRUE,FALSE
+13,Hazmat,Hazmat,hazmat,6,0,3,1,0,TRUE,FALSE,FALSE
+14,Hazmat Support,Hazmat,hazmat_support,6,0,2,0,0,FALSE,FALSE,FALSE
+15,Incident Command Support,Command,ics,3,0,0,1,0,FALSE,FALSE,FALSE
+16,Inflatable Boat,Marine,inf_boat,4,0,0,0,0,FALSE,TRUE,FALSE
+17,Light and Air Unit,Support,light_air,2,0,0,0,0,FALSE,TRUE,FALSE
+18,Medic,Medical,medic,4,2,0,0,0,TRUE,FALSE,FALSE
+19,Medical Care Unit,Medical,mcu,2,0,0,0,0,FALSE,TRUE,FALSE
+20,Mobile Command Post,Command,command_post,4,0,0,0,0,FALSE,TRUE,FALSE
+21,Rehabilitation,Support,rehab,4,0,0,0,0,FALSE,TRUE,FALSE
+22,Rescue,Rescue,rescue,6,0,3,1,0,TRUE,FALSE,FALSE
+23,Safety Officer,Command,safety,2,0,0,1,0,FALSE,FALSE,FALSE
+24,Special Hazards Unit,Hazmat,shu,2,0,0,0,0,FALSE,TRUE,FALSE
+25,Tanker,Suppression,tanker,2,1,0,0,0,FALSE,FALSE,FALSE
+26,Technical Rescue Support,Rescue,trs,2,0,0,0,0,FALSE,TRUE,FALSE
+27,Truck (Ladder),Aerial,ladder,6,3,0,0,0,TRUE,FALSE,FALSE
+28,Truck (Tower),Aerial,tower,6,3,0,0,0,TRUE,FALSE,FALSE
+29,Truck (Tiller),Aerial,tiller,6,3,0,0,0,TRUE,FALSE,FALSE
+30,Utility,Support,utility,2,0,0,0,0,FALSE,TRUE,TRUE
+31,Volunteer Chief,Command,vol_chief,2,0,0,0,1,FALSE,FALSE,TRUE

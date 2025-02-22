@@ -35,6 +35,7 @@ DEPARTMENT_DATA="${SCRIPT_DIR}/data/depart_data.csv"
 STATION_DATA="${SCRIPT_DIR}/data/station_data.csv"
 APPARATUS_TYPE_DATA="${SCRIPT_DIR}/data/apparatus_type_data.csv"
 APPARATUS_DATA="${SCRIPT_DIR}/data/apparatus_data.csv"
+APPARATUS_MODEL_INFO="${SCRIPT_DIR}/data/apparatus_model_info.csv"
 CREATE_STATION_GEO_FILE="${SCRIPT_DIR}/sql/create_station_geo.sql"
 USER_ACCOUNT_DATA="${SCRIPT_DIR}/sql/populate_user_account_tables.sql"
 
@@ -46,25 +47,31 @@ echo "Loading department data"
 DEPARTMENT_DATA=$(echo "$DEPARTMENT_DATA" | tr / \\\\)
 DEPARTMENT_DATA="c:$(echo "$DEPARTMENT_DATA" | cut -c 3-)"
 psql -U "$user" -h "$host" -p "$port" -d ffx-fire-ops \
-  -c "\\copy ffx_fire_ops.department from '$DEPARTMENT_DATA' WITH DELIMITER '|' CSV;"
+  -c "\\copy ffx_fire_ops.department from '$DEPARTMENT_DATA' WITH DELIMITER ',' CSV;"
 
 echo "Loading station data"
 STATION_DATA=$(echo "$STATION_DATA" | tr / \\\\)
 STATION_DATA="c:$(echo "$STATION_DATA" | cut -c 3-)"
 psql -U "$user" -h "$host" -p "$port" -d ffx-fire-ops \
-  -c "\\copy ffx_fire_ops.station from '$STATION_DATA' WITH DELIMITER '|' CSV;"
+  -c "\\copy ffx_fire_ops.station from '$STATION_DATA' WITH DELIMITER ',' CSV;"
 
 echo "Loading apparatus type data"
 APPARATUS_TYPE_DATA=$(echo "$APPARATUS_TYPE_DATA" | tr / \\\\)
 APPARATUS_TYPE_DATA="c:$(echo "$APPARATUS_TYPE_DATA" | cut -c 3-)"
 psql -U "$user" -h "$host" -p "$port" -d ffx-fire-ops \
-  -c "\\copy ffx_fire_ops.apparatus_type from '$APPARATUS_TYPE_DATA' WITH DELIMITER '|' CSV;"
+  -c "\\copy ffx_fire_ops.apparatus_type from '$APPARATUS_TYPE_DATA' WITH DELIMITER ',' CSV;"
 
 echo "Loading apparatus data"
 APPARATUS_DATA=$(echo "$APPARATUS_DATA" | tr / \\\\)
 APPARATUS_DATA="c:$(echo "$APPARATUS_DATA" | cut -c 3-)"
 psql -U "$user" -h "$host" -p "$port" -d ffx-fire-ops \
-  -c "\\copy ffx_fire_ops.apparatus from '$APPARATUS_DATA' WITH DELIMITER '|' CSV;"
+  -c "\\copy ffx_fire_ops.apparatus from '$APPARATUS_DATA' WITH DELIMITER ',' CSV;"
+
+echo "Loading apparatus model info"
+APPARATUS_MODEL_INFO=$(echo "$APPARATUS_MODEL_INFO" | tr / \\\\)
+APPARATUS_MODEL_INFO="c:$(echo "$APPARATUS_MODEL_INFO" | cut -c 3-)"
+psql -U "$user" -h "$host" -p "$port" -d ffx-fire-ops \
+  -c "\\copy ffx_fire_ops.apparatus_model_info from '$APPARATUS_MODEL_INFO' WITH DELIMITER ',' CSV;"
 
 echo "Creating station location point geometries"
 psql -U "$user" -h "$host" -p "$port" -d ffx-fire-ops -f "$CREATE_STATION_GEO_FILE"
@@ -78,8 +85,5 @@ echo "Creating department border polygon geometries"
 for SQL_FILE in "${SCRIPT_DIR}"/sql/depart_border_geom/*; 
   do psql -U "$user" -h "$host" -p "$port" -d ffx-fire-ops -f "$SQL_FILE"
 done
-
-echo "Populating the user account tables"
-psql -U "$user" -h "$host" -p "$port" -d ffx-fire-ops -f "$USER_ACCOUNT_DATA"
 
 echo "Database created"
