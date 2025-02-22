@@ -1,1114 +1,1057 @@
-emp_id,first_name,last_name,rank,ems_level
-10001,Angela,Olson,Deputy Chief,Basic EMT
-10002,Erica,Dean,Deputy Chief,Advanced EMT
-10003,Josefina,Bennett,Deputy Chief,Basic EMT
-10004,Nina,Munoz,Captain I,Paramedic
-10005,Henry,Zuniga,Captain I,Paramedic
-10006,Jonathan,Greene,Captain II,Paramedic
-10007,Skylar,Prince,Captain I,Paramedic
-10008,Myah,Ruiz,Captain I,Paramedic
-10009,Susan,Marshall,Captain II,Paramedic
-10010,Brett,Berry,Captain I,Paramedic
-10011,Nora,Wallace,Captain I,Paramedic
-10012,Bennie,Ray,Captain II,Paramedic
-10013,Harvey,Shelton,Captain I,Paramedic
-10014,Irving,Cummings,Captain I,Paramedic
-10015,Elisa,Gross,Captain I,Paramedic
-10016,Antoinette,Blake,Captain II,Paramedic
-10017,Shelia,Bowen,Captain I,Paramedic
-10018,Debra,Smith,Captain I,Paramedic
-10019,Gregg,Sanchez,Captain I,Paramedic
-10020,Shane,Osborne,Captain II,Paramedic
-10021,Mae,Flores,Captain I,Paramedic
-10022,Shannon,Tyler,Captain I,Advanced EMT
-10023,Sarah,Dunn,Captain II,Basic EMT
-10024,Johnnie,Fox,Captain II,Paramedic
-10025,Katherine,Becker,Captain I,Basic EMT
-10026,Jaime,Mclaughlin,Captain II,Basic EMT
-10027,Marco,Thomas,Captain I,Paramedic
-10028,Phil,Lane,Captain II,Basic EMT
-10029,Elaine,Black,Captain I,Advanced EMT
-10030,Dominic,Harris,Captain I,Basic EMT
-10031,Vernon,Gomez,Captain I,Paramedic
-10032,Dominic,Underwood,Battalion Chief,Basic EMT
-10033,Shawn,Crawford,Battalion Chief,Basic EMT
-10034,Casey,Mason,Battalion Chief,Advanced EMT
-10035,Jessica,Gibbs,Battalion Chief,Basic EMT
-10036,Javier,Clarke,Battalion Chief,Paramedic
-10037,Penny,Silva,Battalion Chief,Basic EMT
-10038,Wm,Mendoza,Battalion Chief,Basic EMT
-10039,Lorenzo,Rhodes,Battalion Chief,Advanced EMT
-10040,Chester,Jones,Battalion Chief,Paramedic
-10041,Cory,Briggs,Battalion Chief,Basic EMT
-10042,Elvira,Patrick,Battalion Chief,Basic EMT
-10043,Curtis,Massey,Battalion Chief,Advanced EMT
-10044,Arthur,Sanders,Battalion Chief,Basic EMT
-10045,Rosa,Davis,Battalion Chief,Basic EMT
-10046,Marcella,Barber,Battalion Chief,Paramedic
-10047,Sheri,Farmer,Battalion Chief,Basic EMT
-10048,Arturo,Jackson,Battalion Chief,Basic EMT
-10049,Alexander,Wise,Battalion Chief,Advanced EMT
-10050,Tabitha,Snyder,Battalion Chief,Basic EMT
-10051,Annie,Armstrong,Battalion Chief,Paramedic
-10052,Ernesto,French,Lieutenant,Basic EMT
-10053,Jaime,Bennett,Lieutenant,Basic EMT
-10054,Donald,Robinson,Lieutenant,Paramedic
-10055,Ollie,Bell,Captain I,Advanced EMT
-10056,Constance,Parker,Captain II,Advanced EMT
-10057,Semaj,Romero,Captain II,Advanced EMT
-10058,Valerie,Cole,Captain I,Advanced EMT
-10059,Alice,Chavez,Captain I,Advanced EMT
-10060,Gerard,Clarke,Captain II,Advanced EMT
-10061,Angie,White,Captain I,Advanced EMT
-10062,Peter,Collier,Captain II,Advanced EMT
-10063,Rachael,Bridges,Captain II,Advanced EMT
-10064,Coleman,Carpenter,Captain I,Advanced EMT
-10065,Anne,Rodriguez,Captain I,Advanced EMT
-10066,Vernon,Carter,Captain II,Advanced EMT
-10067,Barbara,Manning,Captain II,Advanced EMT
-10068,Norman,Nichols,Captain I,Advanced EMT
-10069,Lonnie,Lucas,Captain II,Advanced EMT
-10070,Zachariah,Mays,Fighterfighter,Advanced EMT
-10071,Ellen,Wells,Technician,Advanced EMT
-10072,Clifford,Lawson,Technician,Advanced EMT
-10073,Camille,Casey,Fighterfighter,Advanced EMT
-10074,Clarence,Torres,Fighterfighter,Advanced EMT
-10075,Alicia,Luna,Technician,Advanced EMT
-10076,Susan,Mccoy,Fighterfighter,Advanced EMT
-10077,Ethel,Abbott,Fighterfighter,Advanced EMT
-10078,Devin,Flores,Technician,Advanced EMT
-10079,Adrien,Frye,Fighterfighter,Advanced EMT
-10080,Stella,James,Technician,Advanced EMT
-10081,Tabitha,Burton,Technician,Advanced EMT
-10082,Colleen,Young,Technician,Advanced EMT
-10083,Lynette,Robertson,Fighterfighter,Advanced EMT
-10084,Marvin,Blake,Fighterfighter,Advanced EMT
-10085,Cody,Lambert,Fighterfighter,Advanced EMT
-10086,Pamela,Phelps,Fighterfighter,Advanced EMT
-10087,Helen,Alvarez,Technician,Advanced EMT
-10088,Marcia,Ward,Technician,Advanced EMT
-10089,Aubrey,Horton,Fighterfighter,Advanced EMT
-10090,Pat,Greene,Technician,Advanced EMT
-10091,Rhonda,Townsend,Fighterfighter,Advanced EMT
-10092,Megan,Goodman,Fighterfighter,Advanced EMT
-10093,Tracy,Silva,Fighterfighter,Advanced EMT
-10094,Woodrow,Nunez,Technician,Advanced EMT
-10095,Kenny,Lopez,Fighterfighter,Advanced EMT
-10096,Francis,Day,Fighterfighter,Advanced EMT
-10097,Gregg,Chambers,Fighterfighter,Advanced EMT
-10098,Gerard,Elliott,Technician,Advanced EMT
-10099,Dominick,Patrick,Technician,Advanced EMT
-10100,Edna,Hoffman,Technician,Advanced EMT
-10101,Mona,Ryan,Fighterfighter,Advanced EMT
-10102,Brandon,Stevenson,Fighterfighter,Advanced EMT
-10103,Beulah,Garrett,Master Technician,Advanced EMT
-10104,Sharon,French,Technician,Advanced EMT
-10105,Antonia,Maldonado,Fighterfighter,Advanced EMT
-10106,Cecilia,Phelps,Technician,Advanced EMT
-10107,Carrie,Barnett,Technician,Advanced EMT
-10108,Barry,Richardson,Fighterfighter,Advanced EMT
-10109,Shirley,Butler,Fighterfighter,Advanced EMT
-10110,Peggy,Becker,Technician,Advanced EMT
-10111,Clayton,Cortez,Fighterfighter,Advanced EMT
-10112,Howard,Park,Technician,Advanced EMT
-10113,Molly,Brown,Fighterfighter,Advanced EMT
-10114,Elmer,Oliver,Fighterfighter,Advanced EMT
-10115,Erma,Leonard,Fighterfighter,Advanced EMT
-10116,Ben,Norman,Fighterfighter,Advanced EMT
-10117,Erin,Jordan,Fighterfighter,Advanced EMT
-10118,April,Washington,Fighterfighter,Advanced EMT
-10119,Pedro,Russell,Technician,Advanced EMT
-10120,Dominic,Rose,Fighterfighter,Advanced EMT
-10121,Roberto,Mendez,Technician,Advanced EMT
-10122,Darren,Merritt,Technician,Advanced EMT
-10123,Ruby,Clayton,Fighterfighter,Advanced EMT
-10124,Tiffany,Gibbs,Master Technician,Advanced EMT
-10125,Tony,Holt,Lieutenant,Advanced EMT
-10126,Eugene,Freeman,Lieutenant,Advanced EMT
-10127,Whitney,Harrison,Technician,Advanced EMT
-10128,Kelli,Woods,Master Technician,Advanced EMT
-10129,Maria,Baker,Master Technician,Advanced EMT
-10130,Casey,Knight,Technician,Advanced EMT
-10131,Derrick,Mann,Lieutenant,Advanced EMT
-10132,Omari,Logan,Lieutenant,Advanced EMT
-10133,Saul,Owens,Master Technician,Advanced EMT
-10134,Edna,Abbott,Lieutenant,Advanced EMT
-10135,Frances,Bowers,Master Technician,Advanced EMT
-10136,Blanca,Schultz,Master Technician,Advanced EMT
-10137,Reginald,Moreno,Master Technician,Advanced EMT
-10138,Kim,Reynolds,Master Technician,Advanced EMT
-10139,Marc,Sanchez,Lieutenant,Advanced EMT
-10140,Bessie,Haynes,Lieutenant,Advanced EMT
-10141,Milton,Torres,Lieutenant,Advanced EMT
-10142,Laura,Ortega,Lieutenant,Advanced EMT
-10143,Stephanie,Ramos,Lieutenant,Advanced EMT
-10144,Remington,Riggs,Lieutenant,Advanced EMT
-10145,Kiersten,Miller,Lieutenant,Advanced EMT
-10146,Brooks,Stanton,Fighterfighter,Advanced EMT
-10147,Marian,Morgan,Fighterfighter,Advanced EMT
-10148,Pearl,Alvarado,Lieutenant,Advanced EMT
-10149,Linda,Leonard,Fighterfighter,Advanced EMT
-10150,Brooke,Austin,Fighterfighter,Advanced EMT
-10151,Olga,Mendoza,Master Technician,Advanced EMT
-10152,Bert,Warren,Lieutenant,Advanced EMT
-10153,Anthony,Price,Fighterfighter,Advanced EMT
-10154,Freda,Bates,Lieutenant,Advanced EMT
-10155,Sonia,Robertson,Lieutenant,Advanced EMT
-10156,Paula,Fisher,Lieutenant,Advanced EMT
-10157,Charlene,Manning,Fighterfighter,Advanced EMT
-10158,Bethany,Porter,Fighterfighter,Advanced EMT
-10159,Nathan,Wise,Technician,Advanced EMT
-10160,Michelle,Perez,Lieutenant,Advanced EMT
-10161,Alyssa,Leonard,Fighterfighter,Advanced EMT
-10162,Candice,Adams,Fighterfighter,Advanced EMT
-10163,Noel,Richards,Fighterfighter,Advanced EMT
-10164,Alvin,Morrison,Fighterfighter,Advanced EMT
-10165,Jeannette,Bowen,Fighterfighter,Advanced EMT
-10166,Allison,Bennett,Master Technician,Advanced EMT
-10167,Kenny,Owens,Lieutenant,Advanced EMT
-10168,Nichole,Fuller,Lieutenant,Advanced EMT
-10169,Kyle,Mccormick,Fighterfighter,Advanced EMT
-10170,Sheri,Marshall,Technician,Advanced EMT
-10171,Aubrey,Burns,Fighterfighter,Advanced EMT
-10172,Bridget,Shelton,Fighterfighter,Advanced EMT
-10173,Roger,Wagner,Fighterfighter,Advanced EMT
-10174,Melissa,Henderson,Technician,Advanced EMT
-10175,Yolanda,Terry,Technician,Advanced EMT
-10176,Terry,Pratt,Fighterfighter,Advanced EMT
-10177,Ted,Mcgee,Captain II,Paramedic
-10178,Pete,Curry,Captain I,Paramedic
-10179,Enzo,Perez,Captain I,Paramedic
-10180,Declan,Camacho,Captain II,Paramedic
-10181,Tamara,Patton,Captain I,Paramedic
-10182,Jenna,Brewer,Captain II,Paramedic
-10183,Drew,Pearson,Captain I,Paramedic
-10184,Ebony,Newman,Captain I,Paramedic
-10185,Grace,Logan,Captain I,Paramedic
-10186,Irene,Terry,Captain I,Paramedic
-10187,Wilbur,Carter,Captain I,Paramedic
-10188,Jasmine,Barber,Captain I,Paramedic
-10189,Dale,Roberson,Captain I,Paramedic
-10190,Chace,Kaiser,Captain I,Paramedic
-10191,Susie,Diaz,Captain II,Paramedic
-10192,Jessica,Thomas,Captain II,Paramedic
-10193,Essie,Yates,Captain I,Paramedic
-10194,Shelly,Castillo,Captain II,Paramedic
-10195,Lukas,Pena,Fighterfighter,Paramedic
-10196,Denise,Robbins,Fighterfighter,Paramedic
-10197,Cullen,Reilly,Technician,Paramedic
-10198,Braden,Rojas,Fighterfighter,Paramedic
-10199,Claude,Bell,Technician,Paramedic
-10200,John,Cooper,Fighterfighter,Paramedic
-10201,Luke,Dean,Fighterfighter,Paramedic
-10202,Paulette,Watkins,Technician,Paramedic
-10203,Olive,Grant,Fighterfighter,Paramedic
-10204,Garrett,Peters,Fighterfighter,Paramedic
-10205,Miguel,Green,Fighterfighter,Paramedic
-10206,Noah,Hogan,Fighterfighter,Paramedic
-10207,Greg,Hill,Fighterfighter,Paramedic
-10208,Orville,Vasquez,Fighterfighter,Paramedic
-10209,Joyce,Gibbs,Fighterfighter,Paramedic
-10210,Johnathan,Joseph,Fighterfighter,Paramedic
-10211,Clara,Cruz,Technician,Paramedic
-10212,Sheryl,Figueroa,Fighterfighter,Paramedic
-10213,Lori,Cobb,Technician,Paramedic
-10214,Priscilla,Harvey,Technician,Paramedic
-10215,Roosevelt,Mendoza,Technician,Paramedic
-10216,Hugh,Armstrong,Technician,Paramedic
-10217,Derek,Taylor,Fighterfighter,Paramedic
-10218,Patty,Underwood,Fighterfighter,Paramedic
-10219,Lorene,Curtis,Fighterfighter,Paramedic
-10220,Tyrone,Franklin,Fighterfighter,Paramedic
-10221,Cheryl,Fox,Fighterfighter,Paramedic
-10222,Daisy,Carson,Fighterfighter,Paramedic
-10223,Alisa,Kidd,Technician,Paramedic
-10224,Esperanza,Orr,Fighterfighter,Paramedic
-10225,Hudson,Mccullough,Fighterfighter,Paramedic
-10226,Sage,Pacheco,Fighterfighter,Paramedic
-10227,Kathy,Curtis,Technician,Paramedic
-10228,Camryn,Cox,Technician,Paramedic
-10229,Lydia,Mendez,Fighterfighter,Paramedic
-10230,Anabella,Benton,Fighterfighter,Paramedic
-10231,Yvonne,Lewis,Fighterfighter,Paramedic
-10232,Jorge,Steele,Technician,Paramedic
-10233,Brittany,Mcgee,Fighterfighter,Paramedic
-10234,Jenny,Kelley,Fighterfighter,Paramedic
-10235,Johanna,Boyd,Fighterfighter,Paramedic
-10236,Jessie,Rhodes,Technician,Paramedic
-10237,Vivian,Caldwell,Fighterfighter,Paramedic
-10238,Erik,Collins,Fighterfighter,Paramedic
-10239,Preston,Potter,Fighterfighter,Paramedic
-10240,Pablo,Jensen,Fighterfighter,Paramedic
-10241,Maureen,Ingram,Fighterfighter,Paramedic
-10242,Marilyn,Harrison,Fighterfighter,Paramedic
-10243,Lena,Fox,Technician,Paramedic
-10244,Nick,Malone,Technician,Paramedic
-10245,Amy,Ramirez,Fighterfighter,Paramedic
-10246,Andrea,Burke,Technician,Paramedic
-10247,Moses,Patterson,Fighterfighter,Paramedic
-10248,Joe,Mathis,Technician,Paramedic
-10249,Kerry,Payne,Fighterfighter,Paramedic
-10250,Zachary,Wallace,Technician,Paramedic
-10251,Ervin,Ellis,Fighterfighter,Paramedic
-10252,Lucille,Perez,Technician,Paramedic
-10253,Olga,Simpson,Fighterfighter,Paramedic
-10254,Darren,Ferguson,Fighterfighter,Paramedic
-10255,Lana,Weber,Technician,Paramedic
-10256,Pat,Hale,Fighterfighter,Paramedic
-10257,Marcus,Welch,Technician,Paramedic
-10258,Mona,Mccarthy,Fighterfighter,Paramedic
-10259,Albert,Robinson,Technician,Paramedic
-10260,Bernard,Malone,Fighterfighter,Paramedic
-10261,Phyllis,Casey,Technician,Paramedic
-10262,Darrel,Edwards,Fighterfighter,Paramedic
-10263,Terence,Davidson,Technician,Paramedic
-10264,Miranda,Luna,Fighterfighter,Paramedic
-10265,Bridget,Delgado,Fighterfighter,Paramedic
-10266,Wilbert,Swanson,Fighterfighter,Paramedic
-10267,Brett,Stokes,Technician,Paramedic
-10268,Josh,Massey,Technician,Paramedic
-10269,Earl,Ramos,Technician,Paramedic
-10270,Lorenzo,Chavez,Fighterfighter,Paramedic
-10271,Leslie,Lane,Technician,Paramedic
-10272,Candace,Gregory,Fighterfighter,Paramedic
-10273,Ollie,Hughes,Fighterfighter,Paramedic
-10274,Jessica,Nash,Fighterfighter,Paramedic
-10275,Jana,Bowman,Fighterfighter,Paramedic
-10276,Irma,Guzman,Fighterfighter,Paramedic
-10277,Julian,Santos,Technician,Paramedic
-10278,Mack,Cohen,Fighterfighter,Paramedic
-10279,Jacquelyn,Goodman,Technician,Paramedic
-10280,Roberto,George,Fighterfighter,Paramedic
-10281,Melvin,Willis,Fighterfighter,Paramedic
-10282,Leo,Dean,Fighterfighter,Paramedic
-10283,Molly,Rodriquez,Fighterfighter,Paramedic
-10284,Marta,Bennett,Fighterfighter,Paramedic
-10285,Alexis,Klein,Fighterfighter,Paramedic
-10286,Saul,Townsend,Fighterfighter,Paramedic
-10287,Cynthia,Joseph,Fighterfighter,Paramedic
-10288,Rosemary,Pratt,Fighterfighter,Paramedic
-10289,Patty,Briggs,Fighterfighter,Paramedic
-10290,Jamie,Brady,Technician,Paramedic
-10291,Kelly,Carr,Fighterfighter,Paramedic
-10292,Bradford,Shaw,Fighterfighter,Paramedic
-10293,Dana,Gray,Fighterfighter,Paramedic
-10294,Micheal,Horton,Technician,Paramedic
-10295,Gary,Luna,Fighterfighter,Paramedic
-10296,Greg,Reed,Fighterfighter,Paramedic
-10297,Rachael,Coleman,Fighterfighter,Paramedic
-10298,Shane,Gomez,Technician,Paramedic
-10299,Estelle,Lewis,Fighterfighter,Paramedic
-10300,Carolyn,Evans,Fighterfighter,Paramedic
-10301,Charlene,Figueroa,Fighterfighter,Paramedic
-10302,Ronnie,Dawson,Fighterfighter,Paramedic
-10303,Justin,Campbell,Technician,Paramedic
-10304,Pedro,Maxwell,Fighterfighter,Paramedic
-10305,Adrian,Glover,Technician,Paramedic
-10306,Elias,Burgess,Technician,Paramedic
-10307,Priscilla,Hughes,Fighterfighter,Paramedic
-10308,Bradley,Gregory,Technician,Paramedic
-10309,Jenny,Knight,Fighterfighter,Paramedic
-10310,Howard,Peters,Fighterfighter,Paramedic
-10311,Gertrude,Davidson,Technician,Paramedic
-10312,Hattie,Floyd,Lieutenant,Paramedic
-10313,Harold,Hill,Technician,Paramedic
-10314,Bert,Moody,Master Technician,Paramedic
-10315,Natalie,Murphy,Technician,Paramedic
-10316,Genevieve,Wallace,Technician,Paramedic
-10317,Theodore,Matthews,Lieutenant,Paramedic
-10318,Lena,Hammond,Technician,Paramedic
-10319,Jordan,Russell,Fighterfighter,Paramedic
-10320,Jody,Rice,Lieutenant,Paramedic
-10321,Miranda,Lane,Technician,Paramedic
-10322,Alfonso,Beck,Fighterfighter,Paramedic
-10323,Lynda,Bass,Fighterfighter,Paramedic
-10324,Lucille,Tran,Fighterfighter,Paramedic
-10325,Elsie,Burton,Lieutenant,Paramedic
-10326,Felicia,Pope,Fighterfighter,Paramedic
-10327,Ollie,Murray,Lieutenant,Paramedic
-10328,Luis,Rogers,Technician,Paramedic
-10329,Brenda,Roberson,Fighterfighter,Paramedic
-10330,Naomi,Vasquez,Lieutenant,Paramedic
-10331,Meredith,Romero,Technician,Paramedic
-10332,Orville,Jennings,Fighterfighter,Paramedic
-10333,Katherine,Collier,Fighterfighter,Paramedic
-10334,Johnny,Jenkins,Fighterfighter,Paramedic
-10335,Kathryn,Ortiz,Lieutenant,Paramedic
-10336,Jorge,Flowers,Fighterfighter,Paramedic
-10337,Mathew,Douglas,Lieutenant,Paramedic
-10338,Bruce,Mills,Technician,Paramedic
-10339,Betsy,Berry,Fighterfighter,Paramedic
-10340,Jeanette,Lloyd,Lieutenant,Paramedic
-10341,Elena,Kim,Technician,Paramedic
-10342,Caroline,Morton,Fighterfighter,Paramedic
-10343,Terri,Payne,Fighterfighter,Paramedic
-10344,Edgar,Barber,Fighterfighter,Paramedic
-10345,Margaret,Lindsey,Lieutenant,Paramedic
-10346,Elvira,Fields,Fighterfighter,Paramedic
-10347,Tara,May,Lieutenant,Paramedic
-10348,Beatrice,Lawrence,Technician,Paramedic
-10349,Roy,Barton,Fighterfighter,Paramedic
-10350,Ollie,Fitzgerald,Lieutenant,Paramedic
-10351,Joel,Cruz,Technician,Paramedic
-10352,Adam,Jones,Fighterfighter,Paramedic
-10353,Sheri,Lawrence,Fighterfighter,Paramedic
-10354,Rosalie,Washington,Fighterfighter,Paramedic
-10355,Frederick,Townsend,Lieutenant,Paramedic
-10356,Bryan,Poole,Fighterfighter,Paramedic
-10357,Laurie,Brady,Lieutenant,Paramedic
-10358,Brent,Moore,Technician,Paramedic
-10359,Alfred,Jennings,Fighterfighter,Paramedic
-10360,Cody,Marsh,Fighterfighter,Paramedic
-10361,Brooke,Reese,Fighterfighter,Paramedic
-10362,Jerome,Mcguire,Lieutenant,Paramedic
-10363,Veronica,Rios,Fighterfighter,Paramedic
-10364,Marcus,Greene,Lieutenant,Paramedic
-10365,Grace,Harrington,Technician,Paramedic
-10366,Matthew,Griffin,Fighterfighter,Paramedic
-10367,Jeff,Delgado,Lieutenant,Paramedic
-10368,Darla,Powell,Technician,Paramedic
-10369,Marcia,Rose,Fighterfighter,Paramedic
-10370,Manuel,Ballard,Fighterfighter,Paramedic
-10371,Thelma,Williamson,Fighterfighter,Paramedic
-10372,Emmett,Ingram,Lieutenant,Paramedic
-10373,Gordon,Sims,Fighterfighter,Paramedic
-10374,Ginger,Saunders,Fighterfighter,Paramedic
-10375,Kim,Wise,Lieutenant,Paramedic
-10376,Donnie,Grant,Fighterfighter,Paramedic
-10377,Mattie,Hines,Lieutenant,Paramedic
-10378,Jan,Boyd,Technician,Paramedic
-10379,Susan,Rhodes,Fighterfighter,Paramedic
-10380,Clyde,Jefferson,Lieutenant,Paramedic
-10381,Mandy,May,Technician,Paramedic
-10382,Stanley,Torres,Fighterfighter,Paramedic
-10383,Rudy,Nguyen,Fighterfighter,Paramedic
-10384,Mae,Hammond,Fighterfighter,Paramedic
-10385,Casey,Wagner,Lieutenant,Paramedic
-10386,Lillian,Sanchez,Fighterfighter,Paramedic
-10387,Sidney,Casey,Lieutenant,Paramedic
-10388,Hope,Gardner,Technician,Paramedic
-10389,Drew,Smith,Fighterfighter,Paramedic
-10390,Terence,Ray,Lieutenant,Paramedic
-10391,Elias,Goodman,Technician,Paramedic
-10392,Brooke,Ingram,Fighterfighter,Paramedic
-10393,Ora,Farmer,Fighterfighter,Paramedic
-10394,Marion,Pena,Lieutenant,Paramedic
-10395,Olive,Curtis,Technician,Paramedic
-10396,Santos,Patton,Fighterfighter,Paramedic
-10397,Glen,Bridges,Fighterfighter,Paramedic
-10398,Olivia,Davidson,Fighterfighter,Paramedic
-10399,Alvin,Ball,Lieutenant,Paramedic
-10400,Debra,Chavez,Fighterfighter,Paramedic
-10401,Cameron,Riley,Fighterfighter,Paramedic
-10402,Melvin,Hale,Lieutenant,Paramedic
-10403,Melody,Richards,Fighterfighter,Paramedic
-10404,Jennifer,Beck,Lieutenant,Paramedic
-10405,Max,Stephens,Technician,Paramedic
-10406,Amelia,Day,Fighterfighter,Paramedic
-10407,Henry,Rodriguez,Lieutenant,Paramedic
-10408,Everett,Gardner,Technician,Paramedic
-10409,Carlton,Blake,Fighterfighter,Paramedic
-10410,Clayton,Summers,Fighterfighter,Paramedic
-10411,Flora,Park,Fighterfighter,Paramedic
-10412,Anna,Salazar,Lieutenant,Paramedic
-10413,Tiffany,Hardy,Fighterfighter,Paramedic
-10414,Victoria,Montgomery,Lieutenant,Paramedic
-10415,Andy,Johnston,Technician,Paramedic
-10416,Darren,Cooper,Fighterfighter,Paramedic
-10417,Tony,Byrd,Lieutenant,Paramedic
-10418,Stacey,Barnett,Technician,Paramedic
-10419,Luke,Rivera,Fighterfighter,Paramedic
-10420,Randy,Vega,Fighterfighter,Paramedic
-10421,Dominic,Ford,Lieutenant,Paramedic
-10422,Hannah,Burns,Technician,Paramedic
-10423,Monique,Collins,Fighterfighter,Paramedic
-10424,Jamie,Houston,Fighterfighter,Paramedic
-10425,Steve,Sutton,Fighterfighter,Paramedic
-10426,Jenna,Hunt,Lieutenant,Paramedic
-10427,Micheal,Cruz,Fighterfighter,Paramedic
-10428,Edmund,Hunter,Fighterfighter,Paramedic
-10429,Wilbur,Morales,Lieutenant,Paramedic
-10430,Barry,Quinn,Fighterfighter,Paramedic
-10431,Zachary,Bennett,Lieutenant,Paramedic
-10432,Tami,Edwards,Technician,Paramedic
-10433,Horace,Bryant,Fighterfighter,Paramedic
-10434,Ken,Leonard,Lieutenant,Paramedic
-10435,Lisa,Henry,Technician,Paramedic
-10436,Jodi,Matthews,Fighterfighter,Paramedic
-10437,Claire,Gordon,Fighterfighter,Paramedic
-10438,Kelvin,Young,Fighterfighter,Paramedic
-10439,Terrell,Graves,Lieutenant,Paramedic
-10440,Jean,Palmer,Fighterfighter,Paramedic
-10441,Josh,Cross,Lieutenant,Paramedic
-10442,Katrina,Avila,Technician,Paramedic
-10443,Paulina,Werner,Fighterfighter,Paramedic
-10444,Candice,Shaw,Lieutenant,Paramedic
-10445,Clay,Rice,Technician,Paramedic
-10446,Annie,Gilbert,Fighterfighter,Paramedic
-10447,Carlton,Townsend,Fighterfighter,Paramedic
-10448,Lee,Ortega,Lieutenant,Paramedic
-10449,Michael,Brown,Technician,Paramedic
-10450,Marion,Rose,Fighterfighter,Paramedic
-10451,Lonnie,Schneider,Lieutenant,Paramedic
-10452,Nancy,Berry,Technician,Paramedic
-10453,Crystal,Calderon,Fighterfighter,Paramedic
-10454,Darren,Davies,Fighterfighter,Paramedic
-10455,Duncan,Medina,Fighterfighter,Paramedic
-10456,Carolyn,Robertson,Lieutenant,Paramedic
-10457,Donald,Bowers,Fighterfighter,Paramedic
-10458,Nelson,Garner,Lieutenant,Paramedic
-10459,Katie,Wood,Technician,Paramedic
-10460,Shannon,Ortiz,Fighterfighter,Paramedic
-10461,Antoinette,Schmidt,Lieutenant,Paramedic
-10462,Rosalie,Moran,Technician,Paramedic
-10463,Alfredo,Peterson,Fighterfighter,Paramedic
-10464,Jesus,Nunez,Fighterfighter,Paramedic
-10465,Bethany,Taylor,Technician,Paramedic
-10466,Sandra,Brewer,Master Technician,Paramedic
-10467,Lucy,Tyler,Master Technician,Paramedic
-10468,Stephanie,Howell,Master Technician,Paramedic
-10469,Randolph,Hernandez,Master Technician,Paramedic
-10470,Tamara,Figueroa,Master Technician,Paramedic
-10471,Linda,Horton,Lieutenant,Paramedic
-10472,Brad,Page,Master Technician,Paramedic
-10473,Jesse,Barnett,Master Technician,Paramedic
-10474,Mitchell,Klein,Technician,Paramedic
-10475,Ernest,Phillips,Master Technician,Paramedic
-10476,Erika,Montgomery,Fighterfighter,Paramedic
-10477,Timothy,Meyer,Lieutenant,Paramedic
-10478,Nelson,Peters,Master Technician,Paramedic
-10479,Harold,Hutchinson,Master Technician,Paramedic
-10480,Lydia,Carroll,Master Technician,Paramedic
-10481,Anna,Rice,Fighterfighter,Paramedic
-10482,Cory,Steele,Fighterfighter,Paramedic
-10483,Corey,Day,Fighterfighter,Paramedic
-10484,Judy,Bishop,Lieutenant,Paramedic
-10485,Randall,Bridges,Fighterfighter,Paramedic
-10486,Ernest,Wagner,Master Technician,Paramedic
-10487,Luke,Watkins,Lieutenant,Paramedic
-10488,Beatrice,Wade,Technician,Paramedic
-10489,Brandy,Vasquez,Fighterfighter,Paramedic
-10490,Alton,Austin,Lieutenant,Paramedic
-10491,Larry,Cooper,Fighterfighter,Paramedic
-10492,Diana,Lowe,Lieutenant,Paramedic
-10493,Terrence,Matthews,Master Technician,Paramedic
-10494,Leonard,Todd,Master Technician,Paramedic
-10495,Barbara,Pratt,Master Technician,Paramedic
-10496,Roosevelt,Carpenter,Master Technician,Paramedic
-10497,Alma,King,Lieutenant,Paramedic
-10498,Ralph,Gray,Technician,Paramedic
-10499,Micheal,Harvey,Technician,Paramedic
-10500,Herman,Adams,Technician,Paramedic
-10501,Agnes,Owens,Fighterfighter,Paramedic
-10502,Bertha,Holmes,Fighterfighter,Paramedic
-10503,Darrell,Daniels,Fighterfighter,Paramedic
-10504,Guy,Day,Captain I,Basic EMT
-10505,Ray,Johnston,Captain I,Basic EMT
-10506,Amos,Santos,Captain II,Basic EMT
-10507,Randolph,Bradley,Captain I,Basic EMT
-10508,Marion,Castro,Captain I,Basic EMT
-10509,Brandy,Sims,Captain II,Basic EMT
-10510,Gisselle,Williamson,Captain I,Basic EMT
-10511,Jayda,Suarez,Captain I,Basic EMT
-10512,Connor,Crosby,Captain II,Basic EMT
-10513,Melissa,Lee,Captain I,Basic EMT
-10514,German,Riley,Captain I,Basic EMT
-10515,Giuliana,Walton,Captain I,Basic EMT
-10516,Yair,Morrison,Captain I,Basic EMT
-10517,Christine,Roy,Captain I,Basic EMT
-10518,Margarita,Lloyd,Captain I,Basic EMT
-10519,Patsy,Farmer,Captain II,Basic EMT
-10520,Dana,Moss,Captain I,Basic EMT
-10521,Bert,Richards,Captain I,Basic EMT
-10522,Herman,Abbott,Captain I,Basic EMT
-10523,Doris,Hart,Captain II,Basic EMT
-10524,Ivan,Francis,Captain II,Basic EMT
-10525,Jessie,Gonzalez,Captain I,Basic EMT
-10526,Muriel,Wilkins,Captain II,Basic EMT
-10527,Homer,Jennings,Captain I,Basic EMT
-10528,Miguel,Buchanan,Captain I,Basic EMT
-10529,Harriet,Little,Captain II,Basic EMT
-10530,Theresa,Edwards,Captain II,Basic EMT
-10531,Rufus,Swanson,Captain I,Basic EMT
-10532,Mable,Goodwin,Captain II,Basic EMT
-10533,Monique,Gutierrez,Captain I,Basic EMT
-10534,Delbert,Morrison,Captain II,Basic EMT
-10535,Shelly,Salazar,Captain I,Basic EMT
-10536,Harry,Brooks,Captain I,Basic EMT
-10537,Brenda,Wolfe,Captain I,Basic EMT
-10538,Lisa,Buchanan,Captain I,Basic EMT
-10539,Whitney,Graham,Captain II,Basic EMT
-10540,Irene,Craig,Captain I,Basic EMT
-10541,Elizabeth,Smith,Captain I,Basic EMT
-10542,Dan,Peterson,Captain I,Basic EMT
-10543,Kelley,Cook,Captain II,Basic EMT
-10544,Delores,Reyes,Captain I,Basic EMT
-10545,Doreen,Gomez,Captain II,Basic EMT
-10546,Houston,Benjamin,Captain I,Basic EMT
-10547,Bruno,Bowers,Captain II,Basic EMT
-10548,Tyson,Ferguson,Captain I,Basic EMT
-10549,Martha,Diaz,Captain II,Basic EMT
-10550,Gilberto,Parker,Captain I,Basic EMT
-10551,Elsie,James,Captain I,Basic EMT
-10552,Joy,Parks,Captain I,Basic EMT
-10553,Claudia,Logan,Captain II,Basic EMT
-10554,Geneva,Morris,Captain I,Basic EMT
-10555,Felipe,Carlson,Captain II,Basic EMT
-10556,Erik,Newman,Captain I,Basic EMT
-10557,Frank,Hudson,Captain I,Basic EMT
-10558,Georgia,Reese,Captain I,Basic EMT
-10559,Betsy,Wagner,Captain I,Basic EMT
-10560,Alejandro,Mcbride,Captain II,Basic EMT
-10561,Mckenna,Bailey,Captain I,Basic EMT
-10562,Esmeralda,Esparza,Captain I,Basic EMT
-10563,Dante,Gay,Captain II,Basic EMT
-10564,Randy,Nelson,Captain II,Basic EMT
-10565,Nicholas,Henry,Captain I,Basic EMT
-10566,Alberto,Houston,Captain II,Basic EMT
-10567,Lillie,Lindsey,Captain I,Basic EMT
-10568,Phillip,Mack,Captain I,Basic EMT
-10569,Joe,Banks,Captain I,Basic EMT
-10570,Kelly,Coleman,Captain I,Basic EMT
-10571,Clayton,Cole,Captain I,Basic EMT
-10572,Patti,Lopez,Captain I,Basic EMT
-10573,Kellie,Fox,Captain I,Basic EMT
-10574,Olive,Harris,Captain I,Basic EMT
-10575,Rachel,Morales,Captain I,Basic EMT
-10576,Angel,Wise,Captain I,Basic EMT
-10577,Woodrow,Sullivan,Captain II,Basic EMT
-10578,Eugene,Silva,Captain I,Basic EMT
-10579,Wayne,Schneider,Captain I,Basic EMT
-10580,Damon,Ballard,Captain II,Basic EMT
-10581,Gail,Roberson,Captain I,Basic EMT
-10582,Julius,Riley,Captain II,Basic EMT
-10583,Ida,Brady,Captain I,Basic EMT
-10584,Ana,Fleming,Captain I,Basic EMT
-10585,Leona,Maldonado,Captain I,Basic EMT
-10586,Javier,Cunningham,Captain I,Basic EMT
-10587,Corey,Payne,Captain I,Basic EMT
-10588,Kaylee,Wallace,Fighterfighter,Basic EMT
-10589,Faith,Casey,Technician,Basic EMT
-10590,Janiah,Collins,Fighterfighter,Basic EMT
-10591,Jakobe,Medina,Technician,Basic EMT
-10592,Malik,Howard,Fighterfighter,Basic EMT
-10593,Edgar,Knapp,Technician,Basic EMT
-10594,Cameron,Lopez,Fighterfighter,Basic EMT
-10595,Cora,Holt,Fighterfighter,Basic EMT
-10596,Clara,Nunez,Fighterfighter,Basic EMT
-10597,Leigh,Maldonado,Technician,Basic EMT
-10598,Rachael,Terry,Fighterfighter,Basic EMT
-10599,Roxanne,Knight,Fighterfighter,Basic EMT
-10600,Alexandra,George,Fighterfighter,Basic EMT
-10601,Oscar,Brooks,Fighterfighter,Basic EMT
-10602,Tommie,Turner,Fighterfighter,Basic EMT
-10603,Dana,Richards,Technician,Basic EMT
-10604,Ruben,Porter,Fighterfighter,Basic EMT
-10605,Ginger,Mack,Technician,Basic EMT
-10606,Madeline,Snyder,Technician,Basic EMT
-10607,Jorge,Hardy,Technician,Basic EMT
-10608,Antonio,Arnold,Technician,Basic EMT
-10609,Marilyn,Nguyen,Technician,Basic EMT
-10610,Faye,Mcbride,Fighterfighter,Basic EMT
-10611,Hilda,Woods,Technician,Basic EMT
-10612,Grant,Ramirez,Fighterfighter,Basic EMT
-10613,Kellie,Harvey,Fighterfighter,Basic EMT
-10614,Doug,Vargas,Fighterfighter,Basic EMT
-10615,Maurice,Brown,Fighterfighter,Basic EMT
-10616,Joan,Pittman,Technician,Basic EMT
-10617,Bernice,Garrett,Technician,Basic EMT
-10618,Mandy,Duncan,Fighterfighter,Basic EMT
-10619,Lora,Harper,Fighterfighter,Basic EMT
-10620,Darrin,Guerrero,Fighterfighter,Basic EMT
-10621,Leroy,Carroll,Fighterfighter,Basic EMT
-10622,Jacquelyn,Stokes,Fighterfighter,Basic EMT
-10623,Clarence,Phelps,Fighterfighter,Basic EMT
-10624,Melanie,Tran,Technician,Basic EMT
-10625,Jesse,Watts,Fighterfighter,Basic EMT
-10626,Edith,Kennedy,Technician,Basic EMT
-10627,Lisa,Ramsey,Technician,Basic EMT
-10628,Inez,Lopez,Fighterfighter,Basic EMT
-10629,Wm,Martinez,Technician,Basic EMT
-10630,Kevin,Wilkins,Fighterfighter,Basic EMT
-10631,Felicia,Porter,Fighterfighter,Basic EMT
-10632,Larry,Miles,Technician,Basic EMT
-10633,Johnny,Hunt,Fighterfighter,Basic EMT
-10634,Isis,Osborn,Fighterfighter,Basic EMT
-10635,Cristal,Acosta,Fighterfighter,Basic EMT
-10636,Shaun,Patton,Fighterfighter,Basic EMT
-10637,Winston,Strickland,Fighterfighter,Basic EMT
-10638,Nathalia,Hutchinson,Technician,Basic EMT
-10639,Jack,Cisneros,Technician,Basic EMT
-10640,Jacqueline,Wyatt,Fighterfighter,Basic EMT
-10641,Leonidas,Flores,Fighterfighter,Basic EMT
-10642,Sage,Dodson,Fighterfighter,Basic EMT
-10643,Ayla,Mccall,Fighterfighter,Basic EMT
-10644,Isai,Fletcher,Fighterfighter,Basic EMT
-10645,Maya,Ramos,Fighterfighter,Basic EMT
-10646,Kailee,Welch,Fighterfighter,Basic EMT
-10647,Azaria,Caldwell,Fighterfighter,Basic EMT
-10648,Jesus,Vaughan,Technician,Basic EMT
-10649,Heidi,Vasquez,Fighterfighter,Basic EMT
-10650,Austin,Ross,Fighterfighter,Basic EMT
-10651,Doyle,Tyler,Fighterfighter,Basic EMT
-10652,Michelle,Marshall,Technician,Basic EMT
-10653,Kelley,Myers,Fighterfighter,Basic EMT
-10654,Greg,Powers,Technician,Basic EMT
-10655,Elbert,Haynes,Technician,Basic EMT
-10656,Micheal,Sherman,Fighterfighter,Basic EMT
-10657,Joel,Gonzales,Fighterfighter,Basic EMT
-10658,Miriam,Lynch,Fighterfighter,Basic EMT
-10659,Marion,Porter,Technician,Basic EMT
-10660,Caleb,Huff,Fighterfighter,Basic EMT
-10661,Doyle,Becker,Technician,Basic EMT
-10662,Mitchell,Daniel,Technician,Basic EMT
-10663,Carole,Shaw,Fighterfighter,Basic EMT
-10664,Carrie,Frazier,Technician,Basic EMT
-10665,Deborah,Johnston,Fighterfighter,Basic EMT
-10666,Elijah,Baldwin,Technician,Basic EMT
-10667,Morris,Black,Fighterfighter,Basic EMT
-10668,Dallas,Neal,Technician,Basic EMT
-10669,Leland,Barker,Fighterfighter,Basic EMT
-10670,Colin,May,Fighterfighter,Basic EMT
-10671,Vanessa,Spencer,Fighterfighter,Basic EMT
-10672,Pedro,Hunter,Fighterfighter,Basic EMT
-10673,Jerome,Barrett,Technician,Basic EMT
-10674,Rudy,Webster,Fighterfighter,Basic EMT
-10675,Bernard,Bowman,Technician,Basic EMT
-10676,Rachael,Hubbard,Fighterfighter,Basic EMT
-10677,Cory,Lewis,Fighterfighter,Basic EMT
-10678,Trevor,Mcbride,Fighterfighter,Basic EMT
-10679,Mandy,Patton,Technician,Basic EMT
-10680,Lee,Reese,Fighterfighter,Basic EMT
-10681,Roxanne,Mcdaniel,Fighterfighter,Basic EMT
-10682,Albert,Garrett,Fighterfighter,Basic EMT
-10683,Wade,Jacobs,Technician,Basic EMT
-10684,Bradford,Rodgers,Fighterfighter,Basic EMT
-10685,Sue,Hogan,Fighterfighter,Basic EMT
-10686,Stephanie,Watts,Fighterfighter,Basic EMT
-10687,Roman,Sanchez,Fighterfighter,Basic EMT
-10688,Kendra,Walters,Technician,Basic EMT
-10689,Daisy,Barnett,Fighterfighter,Basic EMT
-10690,Wilma,Bridges,Technician,Basic EMT
-10691,Lisa,Morgan,Fighterfighter,Basic EMT
-10692,Lonnie,Wheeler,Technician,Basic EMT
-10693,Diane,Cain,Fighterfighter,Basic EMT
-10694,Pearl,Saunders,Fighterfighter,Basic EMT
-10695,Kellie,Brady,Fighterfighter,Basic EMT
-10696,Irvin,Baldwin,Technician,Basic EMT
-10697,Wilma,Myers,Fighterfighter,Basic EMT
-10698,Marlon,Thornton,Fighterfighter,Basic EMT
-10699,Matt,Jefferson,Technician,Basic EMT
-10700,Christy,Schwartz,Fighterfighter,Basic EMT
-10701,Lynn,Henry,Fighterfighter,Basic EMT
-10702,Renee,Boyd,Technician,Basic EMT
-10703,Holly,Perry,Fighterfighter,Basic EMT
-10704,Kathryn,Marshall,Technician,Basic EMT
-10705,Myron,Alvarez,Fighterfighter,Basic EMT
-10706,Juan,Jefferson,Technician,Basic EMT
-10707,Edward,Vasquez,Fighterfighter,Basic EMT
-10708,Kenneth,Wolfe,Fighterfighter,Basic EMT
-10709,Luther,Fields,Fighterfighter,Basic EMT
-10710,Hugo,Bailey,Fighterfighter,Basic EMT
-10711,Richard,Jones,Fighterfighter,Basic EMT
-10712,Van,Roberts,Fighterfighter,Basic EMT
-10713,Gina,Lee,Fighterfighter,Basic EMT
-10714,Melody,Clarke,Technician,Basic EMT
-10715,Cheryl,Potter,Fighterfighter,Basic EMT
-10716,Alfonso,Hudson,Fighterfighter,Basic EMT
-10717,Stacy,Graham,Fighterfighter,Basic EMT
-10718,Oliver,Jacobs,Fighterfighter,Basic EMT
-10719,Gayle,Chandler,Fighterfighter,Basic EMT
-10720,Al,Warner,Technician,Basic EMT
-10721,Darrin,Perkins,Fighterfighter,Basic EMT
-10722,Patricia,Franklin,Fighterfighter,Basic EMT
-10723,Julius,Haynes,Technician,Basic EMT
-10724,Lynn,Wright,Fighterfighter,Basic EMT
-10725,Rhonda,Wade,Technician,Basic EMT
-10726,Juana,Pope,Fighterfighter,Basic EMT
-10727,Becky,Freeman,Fighterfighter,Basic EMT
-10728,Winifred,Holloway,Fighterfighter,Basic EMT
-10729,Clifton,Rice,Technician,Basic EMT
-10730,Jay,Shaw,Technician,Basic EMT
-10731,Ernesto,Ford,Fighterfighter,Basic EMT
-10732,Gladys,Mann,Technician,Basic EMT
-10733,Miranda,Fitzgerald,Fighterfighter,Basic EMT
-10734,Laverne,Snyder,Technician,Basic EMT
-10735,Meghan,Mccormick,Fighterfighter,Basic EMT
-10736,Delores,Garner,Technician,Basic EMT
-10737,Gretchen,Frazier,Technician,Basic EMT
-10738,Marvin,Mcguire,Fighterfighter,Basic EMT
-10739,Meredith,Diaz,Technician,Basic EMT
-10740,Jesus,Fields,Fighterfighter,Basic EMT
-10741,Rosalie,Olson,Technician,Basic EMT
-10742,Laura,Phelps,Fighterfighter,Basic EMT
-10743,Guadalupe,Webster,Technician,Basic EMT
-10744,Rogelio,Guzman,Fighterfighter,Basic EMT
-10745,Bill,Bryan,Technician,Basic EMT
-10746,Miranda,Mccormick,Technician,Basic EMT
-10747,Nichole,Mcdaniel,Fighterfighter,Basic EMT
-10748,Duane,Mcdonald,Technician,Basic EMT
-10749,Beatrice,Hodges,Fighterfighter,Basic EMT
-10750,Josh,Ortiz,Fighterfighter,Basic EMT
-10751,Dale,Welch,Fighterfighter,Basic EMT
-10752,Eula,Herrera,Fighterfighter,Basic EMT
-10753,Jessie,Higgins,Technician,Basic EMT
-10754,Armando,Bass,Fighterfighter,Basic EMT
-10755,Diana,Miller,Technician,Basic EMT
-10756,Doreen,Rodgers,Fighterfighter,Basic EMT
-10757,Lillie,Peterson,Fighterfighter,Basic EMT
-10758,Kevin,Love,Fighterfighter,Basic EMT
-10759,Allen,Hardy,Technician,Basic EMT
-10760,Eric,Greer,Technician,Basic EMT
-10761,Amos,Cruz,Fighterfighter,Basic EMT
-10762,Steven,Barnes,Fighterfighter,Basic EMT
-10763,Delbert,Yates,Technician,Basic EMT
-10764,Brent,Medina,Fighterfighter,Basic EMT
-10765,Pedro,Fuller,Fighterfighter,Basic EMT
-10766,Toby,Ballard,Fighterfighter,Basic EMT
-10767,Wilson,Mills,Technician,Basic EMT
-10768,Billie,Richardson,Technician,Basic EMT
-10769,Alonzo,Simpson,Fighterfighter,Basic EMT
-10770,Allison,Casey,Fighterfighter,Basic EMT
-10771,Wayne,Hopkins,Technician,Basic EMT
-10772,Tammy,Lane,Technician,Basic EMT
-10773,Zachary,Gray,Fighterfighter,Basic EMT
-10774,Deborah,Alexander,Fighterfighter,Basic EMT
-10775,Mindy,Lucas,Technician,Basic EMT
-10776,Blanche,Estrada,Fighterfighter,Basic EMT
-10777,Sherman,Morgan,Fighterfighter,Basic EMT
-10778,Kathryn,Weber,Technician,Basic EMT
-10779,Madeline,Romero,Fighterfighter,Basic EMT
-10780,Angelica,Nguyen,Fighterfighter,Basic EMT
-10781,Darrell,Schultz,Fighterfighter,Basic EMT
-10782,Elaine,Martin,Technician,Basic EMT
-10783,Cassandra,Jones,Fighterfighter,Basic EMT
-10784,Emmett,Griffin,Fighterfighter,Basic EMT
-10785,Gerardo,Munoz,Technician,Basic EMT
-10786,Camille,Daniels,Fighterfighter,Basic EMT
-10787,Tara,Smith,Fighterfighter,Basic EMT
-10788,Nelson,Abbott,Fighterfighter,Basic EMT
-10789,Cathy,Clarke,Technician,Basic EMT
-10790,Marlene,Flowers,Master Technician,Basic EMT
-10791,Rhonda,Hamilton,Master Technician,Basic EMT
-10792,Clifford,Guzman,Master Technician,Basic EMT
-10793,Patsy,Riley,Technician,Basic EMT
-10794,Eileen,Lowe,Master Technician,Basic EMT
-10795,Terence,Gonzalez,Lieutenant,Basic EMT
-10796,Joshua,Herrera,Technician,Basic EMT
-10797,Greg,Newman,Technician,Basic EMT
-10798,Rex,Chapman,Technician,Basic EMT
-10799,Lynette,Becker,Master Technician,Basic EMT
-10800,Diane,Thomas,Lieutenant,Basic EMT
-10801,Sonya,Burke,Master Technician,Basic EMT
-10802,Ronnie,Gutierrez,Technician,Basic EMT
-10803,Erin,Chapman,Master Technician,Basic EMT
-10804,Glenn,Bowman,Technician,Basic EMT
-10805,Mable,Chavez,Master Technician,Basic EMT
-10806,Noah,Douglas,Fighterfighter,Basic EMT
-10807,Ted,Fuller,Fighterfighter,Basic EMT
-10808,Alicia,Porter,Technician,Basic EMT
-10809,Freda,Bishop,Fighterfighter,Basic EMT
-10810,Noel,Harris,Technician,Basic EMT
-10811,William,Collier,Fighterfighter,Basic EMT
-10812,Nora,Rodriquez,Technician,Basic EMT
-10813,Clyde,Perkins,Fighterfighter,Basic EMT
-10814,Kim,Williams,Fighterfighter,Basic EMT
-10815,Dan,Mann,Fighterfighter,Basic EMT
-10816,Mercedes,Reyes,Technician,Basic EMT
-10817,Maxine,Cooper,Technician,Basic EMT
-10818,Fred,Fields,Fighterfighter,Basic EMT
-10819,Seth,Harper,Technician,Basic EMT
-10820,Anthony,Stone,Fighterfighter,Basic EMT
-10821,Guy,Hernandez,Fighterfighter,Basic EMT
-10822,Kerry,Love,Fighterfighter,Basic EMT
-10823,Wilson,Patterson,Fighterfighter,Basic EMT
-10824,Israel,Wood,Fighterfighter,Basic EMT
-10825,Kendra,Park,Technician,Basic EMT
-10826,Ruben,Morrison,Fighterfighter,Basic EMT
-10827,Robert,Cortez,Fighterfighter,Basic EMT
-10828,Ted,Willis,Fighterfighter,Basic EMT
-10829,Willie,Carson,Technician,Basic EMT
-10830,Wendell,Cannon,Technician,Basic EMT
-10831,Gilberto,Evans,Fighterfighter,Basic EMT
-10832,Patrick,Kelly,Technician,Basic EMT
-10833,Kristina,Phillips,Fighterfighter,Basic EMT
-10834,Tyrone,Casey,Fighterfighter,Basic EMT
-10835,Adrian,Andrews,Technician,Basic EMT
-10836,Melanie,Reyes,Technician,Basic EMT
-10837,Brittany,George,Fighterfighter,Basic EMT
-10838,Kerry,Maldonado,Fighterfighter,Basic EMT
-10839,Lynette,Barnett,Fighterfighter,Basic EMT
-10840,Terry,Marsh,Fighterfighter,Basic EMT
-10841,Clifford,Stokes,Technician,Basic EMT
-10842,Katherine,Bates,Fighterfighter,Basic EMT
-10843,Essie,Anderson,Technician,Basic EMT
-10844,Simon,Osborne,Fighterfighter,Basic EMT
-10845,Mildred,Weber,Fighterfighter,Basic EMT
-10846,Cory,Oliver,Technician,Basic EMT
-10847,Jerry,Blake,Fighterfighter,Basic EMT
-10848,Carolyn,Sanchez,Fighterfighter,Basic EMT
-10849,Iris,Davis,Technician,Basic EMT
-10850,Luis,Schmidt,Fighterfighter,Basic EMT
-10851,Olga,Carpenter,Technician,Basic EMT
-10852,Andy,Moran,Fighterfighter,Basic EMT
-10853,Melinda,Ramirez,Fighterfighter,Basic EMT
-10854,Enrique,Drake,Fighterfighter,Basic EMT
-10855,Chad,Hudson,Fighterfighter,Basic EMT
-10856,Bob,Wilkins,Technician,Basic EMT
-10857,Allan,Little,Technician,Basic EMT
-10858,Manuel,Norris,Fighterfighter,Basic EMT
-10859,Paulette,Santos,Technician,Basic EMT
-10860,Woodrow,Buchanan,Fighterfighter,Basic EMT
-10861,Rochelle,Baldwin,Technician,Basic EMT
-10862,Helen,Stone,Fighterfighter,Basic EMT
-10863,Lula,Sutton,Technician,Basic EMT
-10864,Franklin,Perez,Fighterfighter,Basic EMT
-10865,Jackie,Drake,Fighterfighter,Basic EMT
-10866,Rosie,Hale,Fighterfighter,Basic EMT
-10867,Cecil,Richards,Technician,Basic EMT
-10868,Lillie,Doyle,Technician,Basic EMT
-10869,Denise,Fleming,Fighterfighter,Basic EMT
-10870,Leo,Moreno,Technician,Basic EMT
-10871,Julius,Hunter,Fighterfighter,Basic EMT
-10872,Monica,Ruiz,Fighterfighter,Basic EMT
-10873,Ed,Holland,Technician,Basic EMT
-10874,Clint,Bradley,Technician,Basic EMT
-10875,James,Rose,Fighterfighter,Basic EMT
-10876,Danny,Carson,Technician,Basic EMT
-10877,Kelley,Salazar,Technician,Basic EMT
-10878,Hattie,Parker,Fighterfighter,Basic EMT
-10879,Ella,Green,Fighterfighter,Basic EMT
-10880,Nora,Clark,Technician,Basic EMT
-10881,Pearl,Shaw,Fighterfighter,Basic EMT
-10882,Chris,Castro,Fighterfighter,Basic EMT
-10883,Lonnie,Barnes,Fighterfighter,Basic EMT
-10884,Eloise,Barton,Technician,Basic EMT
-10885,Blanca,Watkins,Fighterfighter,Basic EMT
-10886,Fredrick,Love,Fighterfighter,Basic EMT
-10887,Marlene,Reid,Technician,Basic EMT
-10888,Micah,Duarte,Fighterfighter,Basic EMT
-10889,Cullen,Mayer,Fighterfighter,Basic EMT
-10890,Norma,Murphy,Technician,Basic EMT
-10891,Everett,Weber,Fighterfighter,Basic EMT
-10892,Holly,Mitchell,Fighterfighter,Basic EMT
-10893,Shelly,Baker,Fighterfighter,Basic EMT
-10894,Pam,Holloway,Technician,Basic EMT
-10895,Blake,Blair,Fighterfighter,Basic EMT
-10896,Eva,Cantu,Technician,Basic EMT
-10897,Ariel,Roth,Fighterfighter,Basic EMT
-10898,Wilbert,Carroll,Fighterfighter,Basic EMT
-10899,Vincent,Figueroa,Fighterfighter,Basic EMT
-10900,Rachael,Mann,Fighterfighter,Basic EMT
-10901,Myron,Meyer,Technician,Basic EMT
-10902,Mae,Guzman,Technician,Basic EMT
-10903,Chelsea,Neal,Lieutenant,Basic EMT
-10904,Shaun,Wheeler,Master Technician,Basic EMT
-10905,Cedric,Ball,Master Technician,Basic EMT
-10906,Sergio,Webster,Lieutenant,Basic EMT
-10907,Antoinette,Watson,Master Technician,Basic EMT
-10908,Silvia,Franklin,Lieutenant,Basic EMT
-10909,Ivan,Holt,Master Technician,Basic EMT
-10910,Becky,Stevenson,Master Technician,Basic EMT
-10911,Janice,Cunningham,Technician,Basic EMT
-10912,Wanda,Becker,Lieutenant,Basic EMT
-10913,Darrell,Wagner,Master Technician,Basic EMT
-10914,Gary,Simmons,Technician,Basic EMT
-10915,Arnold,Mendoza,Master Technician,Basic EMT
-10916,Tommy,Garza,Master Technician,Basic EMT
-10917,Bradley,Aguilar,Master Technician,Basic EMT
-10918,Wilfred,Bowen,Master Technician,Basic EMT
-10919,Michele,West,Technician,Basic EMT
-10920,Evelyn,Pope,Lieutenant,Basic EMT
-10921,Ralph,Powell,Master Technician,Basic EMT
-10922,Van,Graves,Master Technician,Basic EMT
-10923,Austin,Collins,Lieutenant,Basic EMT
-10924,Marshall,Hogan,Master Technician,Basic EMT
-10925,Misty,Johnson,Master Technician,Basic EMT
-10926,Cecelia,Castillo,Lieutenant,Basic EMT
-10927,Margie,Aguilar,Master Technician,Basic EMT
-10928,Rex,Rodriquez,Technician,Basic EMT
-10929,Monique,Burke,Lieutenant,Basic EMT
-10930,Earl,Francis,Master Technician,Basic EMT
-10931,Keith,Bryant,Technician,Basic EMT
-10932,Laurence,Moran,Lieutenant,Basic EMT
-10933,Claude,Pearson,Master Technician,Basic EMT
-10934,Devin,Thomas,Master Technician,Basic EMT
-10935,Erika,Nguyen,Lieutenant,Basic EMT
-10936,Molly,Barton,Master Technician,Basic EMT
-10937,Percy,Walters,Master Technician,Basic EMT
-10938,Priscilla,Mason,Lieutenant,Basic EMT
-10939,Joyce,Morton,Master Technician,Basic EMT
-10940,Jesus,Soto,Master Technician,Basic EMT
-10941,Wendy,Yates,Technician,Basic EMT
-10942,Faye,Sanders,Master Technician,Basic EMT
-10943,Mayra,Arellano,Master Technician,Basic EMT
-10944,Reece,Valencia,Master Technician,Basic EMT
-10945,Aaliyah,Roberson,Master Technician,Basic EMT
-10946,Carla,Doyle,Master Technician,Basic EMT
-10947,Hassan,Finley,Technician,Basic EMT
-10948,Justine,Long,Master Technician,Basic EMT
-10949,Coby,Bond,Master Technician,Basic EMT
-10950,Sophia,Carson,Technician,Basic EMT
-10951,Sheila,Bridges,Lieutenant,Basic EMT
-10952,Mark,Payne,Master Technician,Basic EMT
-10953,Jose,Pierce,Master Technician,Basic EMT
-10954,Angel,Fernandez,Master Technician,Basic EMT
-10955,Cathy,Hawkins,Lieutenant,Basic EMT
-10956,Jacquelyn,Neal,Master Technician,Basic EMT
-10957,Margie,Ellis,Technician,Basic EMT
-10958,Jeanette,Bass,Lieutenant,Basic EMT
-10959,Pamela,Simpson,Master Technician,Basic EMT
-10960,Nicholas,Yates,Technician,Basic EMT
-10961,Marcia,Allison,Master Technician,Basic EMT
-10962,Erma,Hanson,Master Technician,Basic EMT
-10963,Delores,Holmes,Lieutenant,Basic EMT
-10964,Vicky,Nash,Master Technician,Basic EMT
-10965,Jackie,Hayes,Technician,Basic EMT
-10966,Jeannie,Kennedy,Lieutenant,Basic EMT
-10967,Wilbur,Austin,Master Technician,Basic EMT
-10968,Andrea,Simon,Lieutenant,Basic EMT
-10969,Virgil,Simmons,Master Technician,Basic EMT
-10970,Mona,King,Master Technician,Basic EMT
-10971,Jessica,Webster,Lieutenant,Basic EMT
-10972,Lee,Massey,Technician,Basic EMT
-10973,Tonya,Salazar,Fighterfighter,Basic EMT
-10974,Tara,Garner,Master Technician,Basic EMT
-10975,Guillermo,Greer,Fighterfighter,Basic EMT
-10976,Franklin,Dixon,Fighterfighter,Basic EMT
-10977,Myron,Lee,Technician,Basic EMT
-10978,Candice,Crawford,Master Technician,Basic EMT
-10979,Nadine,Barnett,Fighterfighter,Basic EMT
-10980,Marie,Foster,Fighterfighter,Basic EMT
-10981,Allan,Lyons,Fighterfighter,Basic EMT
-10982,Abel,Summers,Fighterfighter,Basic EMT
-10983,Lee,Hernandez,Fighterfighter,Basic EMT
-10984,Armando,Rogers,Fighterfighter,Basic EMT
-10985,Jamie,Garrett,Technician,Basic EMT
-10986,David,Patterson,Fighterfighter,Basic EMT
-10987,Rohan,Cross,Fighterfighter,Basic EMT
-10988,Kierra,Parsons,Fighterfighter,Basic EMT
-10989,Christopher,Murphy,Fighterfighter,Basic EMT
-10990,Elaina,Hanson,Fighterfighter,Basic EMT
-10991,Makai,Grimes,Fighterfighter,Basic EMT
-10992,Madelyn,Schaefer,Technician,Basic EMT
-10993,Stella,Gilmore,Lieutenant,Basic EMT
-10994,Brayan,Soto,Master Technician,Basic EMT
-10995,Vincent,Howard,Fighterfighter,Basic EMT
-10996,Braylon,Allen,Lieutenant,Basic EMT
-10997,Brittany,Merritt,Fighterfighter,Basic EMT
-10998,Madeline,Butler,Master Technician,Basic EMT
-10999,Walter,Murray,Lieutenant,Basic EMT
-11000,Tricia,Pena,Fighterfighter,Basic EMT
-11001,Lynn,Hines,Technician,Basic EMT
-11002,Roxanne,Jimenez,Lieutenant,Basic EMT
-11003,Marty,Bailey,Master Technician,Basic EMT
-11004,Opal,Larson,Fighterfighter,Basic EMT
-11005,Megan,Schultz,Fighterfighter,Basic EMT
-11006,Delia,Williamson,Master Technician,Basic EMT
-11007,Arlene,Roy,Lieutenant,Basic EMT
-11008,Veronica,Newton,Fighterfighter,Basic EMT
-11009,Lynne,Carpenter,Technician,Basic EMT
-11010,Eduardo,Holloway,Master Technician,Basic EMT
-11011,Eileen,Baker,Fighterfighter,Basic EMT
-11012,Kirk,Copeland,Lieutenant,Basic EMT
-11013,Erika,Carlson,Fighterfighter,Basic EMT
-11014,Orville,Cain,Fighterfighter,Basic EMT
-11015,Lee,Carson,Lieutenant,Basic EMT
-11016,Paula,Grant,Fighterfighter,Basic EMT
-11017,Calvin,Wise,Technician,Basic EMT
-11018,Wendell,Sandoval,Master Technician,Basic EMT
-11019,Charlie,Chandler,Fighterfighter,Basic EMT
-11020,Dallas,Hoffman,Fighterfighter,Basic EMT
-11021,Clara,Moody,Lieutenant,Basic EMT
-11022,Andrea,Schneider,Fighterfighter,Basic EMT
-11023,Karen,Bradley,Fighterfighter,Basic EMT
-11024,Julio,Thompson,Lieutenant,Basic EMT
-11025,Cody,Day,Fighterfighter,Basic EMT
-11026,Eddie,Craig,Technician,Basic EMT
-11027,Winston,Coleman,Master Technician,Basic EMT
-11028,Bonnie,Walker,Fighterfighter,Basic EMT
-11029,Spencer,Riley,Fighterfighter,Basic EMT
-11030,Myra,Potter,Fighterfighter,Basic EMT
-11031,Myron,Lyons,Master Technician,Basic EMT
-11032,June,Greer,Fighterfighter,Basic EMT
-11033,Cary,Martinez,Fighterfighter,Basic EMT
-11034,Oscar,Yates,Fighterfighter,Basic EMT
-11035,Edna,Lowe,Lieutenant,Basic EMT
-11036,Leo,Burgess,Master Technician,Basic EMT
-11037,Jackie,Lopez,Fighterfighter,Basic EMT
-11038,Jane,Huff,Fighterfighter,Basic EMT
-11039,Patricia,Davidson,Fighterfighter,Basic EMT
-11040,Doug,Morgan,Master Technician,Basic EMT
-11041,Tonya,Lee,Lieutenant,Basic EMT
-11042,Latoya,Francis,Fighterfighter,Basic EMT
-11043,Yvette,Lewis,Technician,Basic EMT
-11044,Ricky,Bridges,Lieutenant,Basic EMT
-11045,Darlene,Mcdonald,Master Technician,Basic EMT
-11046,Victoria,Mckenzie,Fighterfighter,Basic EMT
-11047,Cory,Craig,Lieutenant,Basic EMT
-11048,Lynette,Medina,Fighterfighter,Basic EMT
-11049,Christopher,Weber,Master Technician,Basic EMT
-11050,Ken,Stevens,Fighterfighter,Basic EMT
-11051,Pablo,Long,Fighterfighter,Basic EMT
-11052,Helen,Fleming,Fighterfighter,Basic EMT
-11053,Estelle,Lambert,Lieutenant,Basic EMT
-11054,Steve,Allison,Master Technician,Basic EMT
-11055,Eddie,Alexander,Fighterfighter,Basic EMT
-11056,Rachel,Ford,Fighterfighter,Basic EMT
-11057,Clinton,Carlson,Lieutenant,Basic EMT
-11058,Roman,Munoz,Master Technician,Basic EMT
-11059,Fernando,Floyd,Fighterfighter,Basic EMT
-11060,Miriam,Simpson,Fighterfighter,Basic EMT
-11061,Amanda,Mccoy,Technician,Basic EMT
-11062,Loretta,Morton,Master Technician,Basic EMT
-11063,Toby,Brooks,Fighterfighter,Basic EMT
-11064,Vicki,Lynch,Lieutenant,Basic EMT
-11065,Patti,Mcgee,Fighterfighter,Basic EMT
-11066,Beulah,Mann,Fighterfighter,Basic EMT
-11067,Rita,Walker,Lieutenant,Basic EMT
-11068,Julio,Stewart,Fighterfighter,Basic EMT
-11069,Roberto,Miller,Technician,Basic EMT
-11070,Estelle,Sims,Lieutenant,Basic EMT
-11071,Sammy,Ramsey,Fighterfighter,Basic EMT
-11072,Judith,Nunez,Lieutenant,Basic EMT
-11073,Jon,Sutton,Fighterfighter,Basic EMT
-11074,May,Bass,Fighterfighter,Basic EMT
-11075,Roxanne,Massey,Lieutenant,Basic EMT
-11076,Maxine,Medina,Fighterfighter,Basic EMT
-11077,Bobby,Drake,Technician,Basic EMT
-11078,Leslie,Mitchell,Lieutenant,Basic EMT
-11079,Gail,Black,Fighterfighter,Basic EMT
-11080,Neal,Cummings,Fighterfighter,Basic EMT
-11081,Marcos,Carter,Fighterfighter,Basic EMT
-11082,Roberta,Waters,Fighterfighter,Basic EMT
-11083,Lorena,Hunter,Fighterfighter,Basic EMT
-11084,Austin,Davis,Technician,Basic EMT
-11085,Lewis,Porter,Master Technician,Basic EMT
-11086,Frank,Parsons,Fighterfighter,Basic EMT
-11087,Patti,Bass,Fighterfighter,Basic EMT
-11088,Jerome,Chambers,Technician,Basic EMT
-11089,Robin,Vargas,Technician,Basic EMT
-11090,Robyn,Butler,Fighterfighter,Basic EMT
-11091,Jeanette,Jensen,Fighterfighter,Basic EMT
-11092,Juanita,Ray,Technician,Basic EMT
-11093,Jody,Mack,Technician,Basic EMT
-11094,Willie,Hicks,Fighterfighter,Basic EMT
-11095,Sean,Barnes,Fighterfighter,Basic EMT
-11096,Dean,Jordan,Technician,Basic EMT
-11097,Alison,Barnett,Technician,Basic EMT
-11098,Marcia,Stevenson,Fighterfighter,Basic EMT
-11099,Horace,Myers,Fighterfighter,Basic EMT
-11100,Della,Byrd,Technician,Basic EMT
-11101,Tami,Mack,Technician,Basic EMT
-11102,Michelle,Underwood,Fighterfighter,Basic EMT
-11103,Rodney,Steele,Fighterfighter,Basic EMT
-11104,Fred,Kennedy,Technician,Basic EMT
-11105,Natalie,Walker,Technician,Basic EMT
-11106,Dominic,Harrison,Fighterfighter,Basic EMT
-11107,Elbert,Douglas,Fighterfighter,Basic EMT
-11108,Fannie,Sandoval,Technician,Basic EMT
-11109,Daniel,Boyd,Technician,Basic EMT
-11110,Renee,Wright,Fighterfighter,Basic EMT
-11111,Mike,Wilson,Captain I,Paramedic
-11112,Brian,Smith,Captain I,Paramedic
-11113,Jon,Mayment,Captain I,Paramedic
+emp_id,station,shift
+10055,404,A
+10056,412,A
+10057,422,A
+10058,432,A
+10059,402,B
+10060,413,B
+10061,424,B
+10062,434,B
+10063,442,B
+10064,402,C
+10065,411,C
+10066,416,C
+10067,424,C
+10068,434,C
+10069,444,C
+10070,401,C
+10071,404,A
+10072,404,C
+10073,405,C
+10074,408,A
+10075,409,A
+10076,410,B
+10077,411,B
+10078,413,A
+10079,414,A
+10080,414,B
+10081,416,A
+10082,417,B
+10083,418,B
+10084,419,A
+10085,420,C
+10086,421,A
+10087,422,B
+10088,423,B
+10089,424,A
+10090,425,A
+10091,425,B
+10092,426,B
+10093,427,B
+10094,429,C
+10095,430,C
+10096,432,A
+10097,434,C
+10098,437,A
+10099,438,B
+10100,440,B
+10101,441,C
+10102,444,C
+10103,440,B
+10104,440,C
+10105,408,A
+10106,409,C
+10107,409,C
+10108,411,A
+10109,413,A
+10110,414,C
+10111,417,C
+10112,420,B
+10113,422,A
+10114,423,C
+10115,426,A
+10116,428,A
+10117,429,A
+10118,431,A
+10119,435,C
+10120,436,C
+10121,438,C
+10122,441,B
+10123,443,A
+10124,411,B
+10125,414,B
+10126,414,C
+10127,418,A
+10128,418,B
+10129,419,A
+10130,419,C
+10131,421,C
+10132,426,A
+10133,439,A
+10134,439,B
+10135,439,C
+10136,444,A
+10137,444,B
+10138,444,C
+10139,401,A
+10140,401,B
+10141,405,A
+10142,405,B
+10143,405,C
+10144,408,A
+10145,408,B
+10146,408,C
+10147,410,B
+10148,411,A
+10149,411,B
+10150,411,C
+10151,422,A
+10152,422,C
+10153,424,B
+10154,424,C
+10155,425,B
+10156,429,A
+10157,429,A
+10158,429,C
+10159,430,B
+10160,436,B
+10161,436,B
+10162,436,C
+10163,438,B
+10164,438,C
+10165,440,B
+10166,440,C
+10167,441,A
+10168,441,B
+10169,441,B
+10170,412,A
+10171,412,B
+10172,416,C
+10173,420,C
+10174,441,C
+10175,442,B
+10176,442,C
+10177,401,A
+10178,410,A
+10179,415,A
+10180,420,A
+10181,425,A
+10182,430,A
+10183,435,A
+10184,439,A
+10185,444,A
+10186,409,B
+10187,420,B
+10188,429,B
+10189,437,B
+10190,405,C
+10191,419,C
+10192,429,C
+10193,438,C
+10194,440,C
+10195,401,A
+10196,401,B
+10197,401,C
+10198,402,A
+10199,402,B
+10200,402,C
+10201,404,A
+10202,404,B
+10203,404,C
+10204,405,A
+10205,405,B
+10206,405,C
+10207,408,A
+10208,408,B
+10209,408,C
+10210,409,A
+10211,409,B
+10212,409,C
+10213,410,A
+10214,410,B
+10215,410,C
+10216,411,A
+10217,411,B
+10218,411,C
+10219,412,A
+10220,412,B
+10221,412,C
+10222,413,A
+10223,413,B
+10224,413,C
+10225,414,A
+10226,414,B
+10227,414,C
+10228,415,A
+10229,415,B
+10230,415,C
+10231,416,A
+10232,416,B
+10233,416,C
+10234,417,A
+10235,417,B
+10236,417,C
+10237,418,A
+10238,418,B
+10239,418,C
+10240,419,A
+10241,419,B
+10242,419,C
+10243,420,A
+10244,420,B
+10245,420,C
+10246,421,A
+10247,421,B
+10248,421,C
+10249,422,A
+10250,422,B
+10251,422,C
+10252,423,A
+10253,423,B
+10254,423,C
+10255,424,A
+10256,424,B
+10257,424,C
+10258,425,A
+10259,425,B
+10260,425,C
+10261,426,A
+10262,426,B
+10263,426,C
+10264,427,A
+10265,427,B
+10266,427,C
+10267,428,A
+10268,428,B
+10269,428,C
+10270,429,A
+10271,429,B
+10272,429,C
+10273,430,A
+10274,430,B
+10275,430,C
+10276,431,A
+10277,431,B
+10278,431,C
+10279,432,A
+10280,432,B
+10281,432,C
+10282,434,A
+10283,434,B
+10284,434,C
+10285,435,A
+10286,435,B
+10287,435,C
+10288,436,A
+10289,436,B
+10290,436,C
+10291,437,A
+10292,437,B
+10293,437,C
+10294,438,A
+10295,438,B
+10296,438,C
+10297,439,A
+10298,439,B
+10299,439,C
+10300,440,A
+10301,440,B
+10302,440,C
+10303,441,A
+10304,441,B
+10305,441,C
+10306,442,A
+10307,442,B
+10308,442,C
+10309,444,A
+10310,444,B
+10311,444,C
+10312,440,A
+10313,440,A
+10314,440,B
+10315,440,B
+10316,440,C
+10317,401,A
+10318,401,B
+10319,401,C
+10320,402,A
+10321,402,B
+10322,402,B
+10323,402,C
+10324,404,A
+10325,404,B
+10326,404,C
+10327,405,A
+10328,405,B
+10329,405,C
+10330,408,A
+10331,408,B
+10332,408,B
+10333,408,C
+10334,408,A
+10335,408,B
+10336,408,C
+10337,409,A
+10338,409,B
+10339,409,C
+10340,409,A
+10341,409,B
+10342,409,B
+10343,409,C
+10344,410,A
+10345,410,B
+10346,410,C
+10347,410,A
+10348,410,B
+10349,410,C
+10350,411,A
+10351,411,B
+10352,411,B
+10353,411,C
+10354,411,A
+10355,411,B
+10356,411,C
+10357,412,A
+10358,412,B
+10359,412,B
+10360,412,C
+10361,413,A
+10362,413,B
+10363,413,C
+10364,414,A
+10365,414,B
+10366,414,C
+10367,415,A
+10368,415,B
+10369,415,B
+10370,415,C
+10371,416,A
+10372,416,B
+10373,416,C
+10374,417,A
+10375,417,B
+10376,417,C
+10377,418,A
+10378,418,B
+10379,418,C
+10380,419,A
+10381,419,B
+10382,419,B
+10383,419,C
+10384,420,A
+10385,420,B
+10386,420,C
+10387,421,A
+10388,421,B
+10389,421,C
+10390,422,A
+10391,422,B
+10392,422,B
+10393,422,C
+10394,422,A
+10395,422,B
+10396,422,B
+10397,422,C
+10398,423,A
+10399,423,B
+10400,423,C
+10401,424,A
+10402,424,B
+10403,424,C
+10404,425,A
+10405,425,B
+10406,425,C
+10407,426,A
+10408,426,B
+10409,426,B
+10410,426,C
+10411,427,A
+10412,427,B
+10413,427,C
+10414,428,A
+10415,428,B
+10416,428,C
+10417,429,A
+10418,429,B
+10419,429,B
+10420,429,C
+10421,430,A
+10422,430,B
+10423,430,B
+10424,430,C
+10425,431,A
+10426,431,B
+10427,431,C
+10428,432,A
+10429,432,B
+10430,432,C
+10431,434,A
+10432,434,B
+10433,434,C
+10434,435,A
+10435,435,B
+10436,435,B
+10437,435,C
+10438,436,A
+10439,436,B
+10440,436,C
+10441,437,A
+10442,437,B
+10443,437,C
+10444,438,A
+10445,438,B
+10446,438,B
+10447,438,C
+10448,439,A
+10449,439,B
+10450,439,C
+10451,440,A
+10452,440,B
+10453,440,B
+10454,440,C
+10455,441,A
+10456,441,B
+10457,441,C
+10458,442,A
+10459,442,B
+10460,442,C
+10461,443,A
+10462,443,B
+10463,443,B
+10464,443,C
+10465,411,A
+10466,411,B
+10467,414,A
+10468,414,C
+10469,418,C
+10470,419,B
+10471,421,B
+10472,426,C
+10473,439,B
+10474,444,A
+10475,444,C
+10476,401,B
+10477,401,C
+10478,405,A
+10479,405,C
+10480,408,A
+10481,410,A
+10482,410,C
+10483,411,A
+10484,411,C
+10485,422,B
+10486,424,A
+10487,425,A
+10488,425,B
+10489,429,B
+10490,430,B
+10491,436,A
+10492,436,C
+10493,438,A
+10494,438,C
+10495,440,A
+10496,441,A
+10497,441,C
+10498,416,B
+10499,420,C
+10500,439,C
+10501,439,C
+10502,441,B
+10503,442,A
+10504,402,A
+10505,405,A
+10506,408,A
+10507,409,A
+10508,411,A
+10509,413,A
+10510,414,A
+10511,416,A
+10512,417,A
+10513,418,A
+10514,419,A
+10515,421,A
+10516,423,A
+10517,424,A
+10518,426,A
+10519,427,A
+10520,428,A
+10521,429,A
+10522,431,A
+10523,434,A
+10524,436,A
+10525,437,A
+10526,438,A
+10527,440,A
+10528,441,A
+10529,442,A
+10530,401,B
+10531,404,B
+10532,405,B
+10533,408,B
+10534,410,B
+10535,411,B
+10536,412,B
+10537,414,B
+10538,415,B
+10539,416,B
+10540,417,B
+10541,418,B
+10542,419,B
+10543,421,B
+10544,422,B
+10545,423,B
+10546,425,B
+10547,426,B
+10548,427,B
+10549,428,B
+10550,430,B
+10551,431,B
+10552,432,B
+10553,435,B
+10554,436,B
+10555,438,B
+10556,439,B
+10557,440,B
+10558,441,B
+10559,444,B
+10560,401,C
+10561,404,C
+10562,408,C
+10563,409,C
+10564,410,C
+10565,412,C
+10566,413,C
+10567,414,C
+10568,415,C
+10569,417,C
+10570,418,C
+10571,420,C
+10572,421,C
+10573,422,C
+10574,423,C
+10575,425,C
+10576,426,C
+10577,427,C
+10578,428,C
+10579,430,C
+10580,431,C
+10581,432,C
+10582,435,C
+10583,436,C
+10584,437,C
+10585,439,C
+10586,441,C
+10587,442,C
+10588,401,A
+10589,401,A
+10590,401,B
+10591,401,B
+10592,401,C
+10593,402,A
+10594,402,A
+10595,402,B
+10596,402,B
+10597,402,C
+10598,402,C
+10599,404,A
+10600,404,B
+10601,404,B
+10602,404,C
+10603,405,A
+10604,405,A
+10605,405,B
+10606,405,B
+10607,405,C
+10608,408,A
+10609,408,B
+10610,408,B
+10611,408,C
+10612,408,C
+10613,409,A
+10614,409,B
+10615,409,B
+10616,409,C
+10617,409,C
+10618,410,A
+10619,410,A
+10620,410,B
+10621,410,C
+10622,410,C
+10623,411,A
+10624,411,A
+10625,411,B
+10626,411,C
+10627,411,C
+10628,412,A
+10629,412,A
+10630,412,B
+10631,412,B
+10632,412,C
+10633,412,C
+10634,413,A
+10635,413,B
+10636,413,B
+10637,413,C
+10638,413,C
+10639,414,A
+10640,414,B
+10641,414,C
+10642,414,C
+10643,415,A
+10644,415,A
+10645,415,B
+10646,415,B
+10647,415,C
+10648,415,C
+10649,416,A
+10650,416,B
+10651,416,B
+10652,416,C
+10653,416,C
+10654,417,A
+10655,417,A
+10656,417,B
+10657,417,C
+10658,417,C
+10659,418,A
+10660,418,A
+10661,418,B
+10662,418,C
+10663,418,C
+10664,419,A
+10665,419,B
+10666,419,B
+10667,419,C
+10668,419,C
+10669,420,A
+10670,420,A
+10671,420,B
+10672,420,B
+10673,420,C
+10674,421,A
+10675,421,B
+10676,421,B
+10677,421,C
+10678,421,C
+10679,422,A
+10680,422,A
+10681,422,B
+10682,422,C
+10683,422,C
+10684,423,A
+10685,423,A
+10686,423,B
+10687,423,C
+10688,423,C
+10689,424,A
+10690,424,B
+10691,424,B
+10692,424,C
+10693,424,C
+10694,425,A
+10695,425,B
+10696,425,C
+10697,425,C
+10698,426,A
+10699,426,A
+10700,426,B
+10701,426,C
+10702,426,C
+10703,427,A
+10704,427,A
+10705,427,B
+10706,427,C
+10707,427,C
+10708,428,A
+10709,428,A
+10710,428,B
+10711,428,B
+10712,428,C
+10713,428,C
+10714,429,A
+10715,429,A
+10716,429,B
+10717,429,B
+10718,429,C
+10719,430,A
+10720,430,A
+10721,430,B
+10722,430,B
+10723,430,C
+10724,431,A
+10725,431,A
+10726,431,B
+10727,431,B
+10728,431,C
+10729,431,C
+10730,432,A
+10731,432,B
+10732,432,B
+10733,432,C
+10734,432,C
+10735,434,A
+10736,434,A
+10737,434,B
+10738,434,B
+10739,434,C
+10740,435,A
+10741,435,A
+10742,435,B
+10743,435,B
+10744,435,C
+10745,435,C
+10746,436,A
+10747,436,A
+10748,436,B
+10749,436,B
+10750,436,C
+10751,436,C
+10752,437,A
+10753,437,B
+10754,437,B
+10755,437,C
+10756,437,C
+10757,438,A
+10758,438,A
+10759,438,B
+10760,438,C
+10761,438,C
+10762,439,A
+10763,439,A
+10764,439,B
+10765,439,B
+10766,439,C
+10767,439,C
+10768,440,A
+10769,440,A
+10770,440,B
+10771,440,C
+10772,440,C
+10773,441,A
+10774,441,A
+10775,441,B
+10776,441,B
+10777,441,C
+10778,442,A
+10779,442,A
+10780,442,B
+10781,442,B
+10782,442,C
+10783,442,C
+10784,444,A
+10785,444,A
+10786,444,B
+10787,444,B
+10788,444,C
+10789,440,A
+10790,440,A
+10791,440,A
+10792,440,A
+10793,440,A
+10794,440,A
+10795,440,B
+10796,440,B
+10797,440,B
+10798,440,B
+10799,440,B
+10800,440,C
+10801,440,C
+10802,440,C
+10803,440,C
+10804,440,C
+10805,440,C
+10806,401,A
+10807,401,B
+10808,401,C
+10809,402,A
+10810,402,C
+10811,404,A
+10812,404,B
+10813,404,C
+10814,405,A
+10815,405,B
+10816,405,C
+10817,408,C
+10818,408,A
+10819,408,B
+10820,408,C
+10821,409,A
+10822,409,B
+10823,409,A
+10824,410,A
+10825,410,B
+10826,410,C
+10827,410,A
+10828,410,B
+10829,410,C
+10830,411,C
+10831,411,A
+10832,411,B
+10833,411,C
+10834,412,A
+10835,412,C
+10836,413,B
+10837,413,C
+10838,414,A
+10839,414,B
+10840,415,A
+10841,415,C
+10842,416,A
+10843,416,B
+10844,416,C
+10845,417,A
+10846,417,B
+10847,418,A
+10848,418,B
+10849,418,C
+10850,419,A
+10851,419,C
+10852,420,A
+10853,420,C
+10854,421,A
+10855,421,B
+10856,421,C
+10857,422,C
+10858,422,A
+10859,422,C
+10860,423,A
+10861,423,B
+10862,424,A
+10863,424,B
+10864,424,C
+10865,425,A
+10866,425,B
+10867,425,C
+10868,426,C
+10869,427,A
+10870,427,B
+10871,427,C
+10872,428,B
+10873,428,C
+10874,429,C
+10875,430,A
+10876,430,C
+10877,431,B
+10878,431,C
+10879,432,A
+10880,432,B
+10881,432,C
+10882,434,A
+10883,434,B
+10884,434,C
+10885,435,A
+10886,436,A
+10887,436,B
+10888,437,A
+10889,437,B
+10890,437,C
+10891,438,A
+10892,439,A
+10893,439,B
+10894,439,C
+10895,440,A
+10896,440,C
+10897,441,A
+10898,441,C
+10899,442,A
+10900,442,B
+10901,442,C
+10902,443,C
+10903,411,A
+10904,411,A
+10905,411,A
+10906,411,B
+10907,411,B
+10908,411,C
+10909,411,C
+10910,411,C
+10911,411,C
+10912,414,A
+10913,414,A
+10914,414,A
+10915,414,B
+10916,414,B
+10917,414,B
+10918,414,C
+10919,414,C
+10920,418,A
+10921,418,A
+10922,418,A
+10923,418,B
+10924,418,B
+10925,418,B
+10926,418,C
+10927,418,C
+10928,418,C
+10929,419,A
+10930,419,A
+10931,419,A
+10932,419,B
+10933,419,B
+10934,419,B
+10935,419,C
+10936,419,C
+10937,419,C
+10938,421,A
+10939,421,A
+10940,421,A
+10941,421,A
+10942,421,B
+10943,421,B
+10944,421,B
+10945,421,C
+10946,421,C
+10947,421,C
+10948,426,A
+10949,426,A
+10950,426,A
+10951,426,B
+10952,426,B
+10953,426,B
+10954,426,B
+10955,426,C
+10956,426,C
+10957,426,C
+10958,439,A
+10959,439,A
+10960,439,A
+10961,439,B
+10962,439,B
+10963,439,C
+10964,439,C
+10965,439,C
+10966,444,A
+10967,444,A
+10968,444,B
+10969,444,B
+10970,444,B
+10971,444,C
+10972,444,C
+10973,401,A
+10974,401,A
+10975,401,A
+10976,401,B
+10977,401,B
+10978,401,C
+10979,401,C
+10980,401,C
+10981,405,A
+10982,405,A
+10983,405,B
+10984,405,B
+10985,405,B
+10986,405,C
+10987,405,C
+10988,408,A
+10989,408,A
+10990,408,B
+10991,408,B
+10992,408,B
+10993,408,C
+10994,408,C
+10995,408,C
+10996,410,A
+10997,410,A
+10998,410,A
+10999,410,B
+11000,410,B
+11001,410,B
+11002,410,C
+11003,410,C
+11004,410,C
+11005,411,A
+11006,411,A
+11007,411,B
+11008,411,B
+11009,411,B
+11010,411,C
+11011,411,C
+11012,422,A
+11013,422,A
+11014,422,A
+11015,422,B
+11016,422,B
+11017,422,B
+11018,422,C
+11019,422,C
+11020,422,C
+11021,424,A
+11022,424,A
+11023,424,A
+11024,424,B
+11025,424,B
+11026,424,B
+11027,424,C
+11028,424,C
+11029,424,C
+11030,425,A
+11031,425,A
+11032,425,A
+11033,425,B
+11034,425,B
+11035,425,C
+11036,425,C
+11037,425,C
+11038,425,C
+11039,429,A
+11040,429,A
+11041,429,B
+11042,429,B
+11043,429,B
+11044,429,C
+11045,429,C
+11046,429,C
+11047,430,A
+11048,430,A
+11049,430,A
+11050,430,A
+11051,430,B
+11052,430,B
+11053,430,C
+11054,430,C
+11055,430,C
+11056,430,C
+11057,436,A
+11058,436,A
+11059,436,A
+11060,436,B
+11061,436,B
+11062,436,C
+11063,436,C
+11064,438,A
+11065,438,A
+11066,438,A
+11067,438,B
+11068,438,B
+11069,438,B
+11070,438,C
+11071,438,C
+11072,440,A
+11073,440,A
+11074,440,A
+11075,440,B
+11076,440,B
+11077,440,B
+11078,440,C
+11079,440,C
+11080,440,C
+11081,441,A
+11082,441,A
+11083,441,B
+11084,441,B
+11085,441,C
+11086,441,C
+11087,441,C
+11088,412,B
+11089,412,C
+11090,412,A
+11091,412,C
+11092,416,A
+11093,416,C
+11094,416,A
+11095,416,B
+11096,420,A
+11097,420,B
+11098,420,A
+11099,420,B
+11100,439,A
+11101,439,B
+11102,439,A
+11103,439,B
+11104,441,A
+11105,441,B
+11106,441,A
+11107,441,C
+11108,442,A
+11109,442,C
+11110,442,B
